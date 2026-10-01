@@ -1,0 +1,1001 @@
+invoice_id,branch,city,customer_type,gender,product_line,unit_price,quantity,tax,total,date,time,payment
+INV-IND-00001,BLR,Ahmedabad,Member,Male,Groceries,29.39,6,8.82,185.16,19-02-2023,20:07:00,UPI
+INV-IND-00002,HYD,Hyderabad,Member,Female,Electronics,68.2,1,3.41,71.61,21-02-2023,18:09:00,UPI
+INV-IND-00003,PUN,Ahmedabad,Member,Male,Home Appliances,81.03,7,28.36,595.57,02-02-2023,20:27:00,Cash
+INV-IND-00004,PUN,Pune,Member,Female,Health & Wellness,67.95,3,10.19,214.04,01-01-2023,12:41:00,Cash
+INV-IND-00005,DEL,Chennai,Normal,Female,Home Appliances,13.77,5,3.44,72.29,22-02-2023,19:00:00,Debit Card
+INV-IND-00006,DEL,Mumbai,Member,Female,Health & Wellness,61.65,4,12.33,258.93,01-03-2023,21:35:00,Debit Card
+INV-IND-00007,HYD,Ahmedabad,Normal,Female,Groceries,57.21,5,14.3,300.35,03-02-2023,17:37:00,Net Banking
+INV-IND-00008,BLR,Chennai,Normal,Male,Health & Wellness,90.53,5,22.63,475.28,04-01-2023,20:25:00,Cash
+INV-IND-00009,AHM,Bangalore,Member,Male,Electronics,43.4,6,13.02,273.42,17-01-2023,15:36:00,Cash
+INV-IND-00010,HYD,Ahmedabad,Normal,Female,Health & Wellness,35.5,6,10.65,223.65,04-01-2023,09:26:00,Debit Card
+INV-IND-00011,BLR,Hyderabad,Normal,Female,Clothing,76.24,8,30.5,640.42,12-02-2023,09:18:00,Debit Card
+INV-IND-00012,AHM,Chennai,Normal,Male,Electronics,44.2,8,17.68,371.28,31-03-2023,11:24:00,Debit Card
+INV-IND-00013,BLR,Kolkata,Normal,Female,Groceries,66.38,9,29.87,627.29,04-01-2023,21:10:00,UPI
+INV-IND-00014,PUN,Chennai,Member,Male,Electronics,66.41,8,26.56,557.84,01-01-2023,13:36:00,Credit Card
+INV-IND-00015,PUN,Kolkata,Normal,Female,Clothing,89.36,2,8.94,187.66,12-03-2023,12:13:00,Credit Card
+INV-IND-00016,PUN,Kolkata,Member,Male,Groceries,61.88,1,3.09,64.97,19-02-2023,13:03:00,Cash
+INV-IND-00017,KOL,Mumbai,Normal,Female,Home Appliances,52.7,2,5.27,110.67,14-03-2023,14:19:00,UPI
+INV-IND-00018,PUN,Hyderabad,Normal,Female,Clothing,18.19,2,1.82,38.2,02-03-2023,10:09:00,Debit Card
+INV-IND-00019,CHE,Delhi,Member,Male,Groceries,16,3,2.4,50.4,04-02-2023,17:55:00,Cash
+INV-IND-00020,DEL,Hyderabad,Normal,Female,Books & Stationery,19.66,7,6.88,144.5,08-01-2023,12:35:00,UPI
+INV-IND-00021,DEL,Pune,Normal,Female,Health & Wellness,21.33,2,2.13,44.79,24-01-2023,19:38:00,Net Banking
+INV-IND-00022,BLR,Ahmedabad,Normal,Male,Electronics,65.6,1,3.28,68.88,24-03-2023,17:17:00,UPI
+INV-IND-00023,DEL,Hyderabad,Member,Female,Groceries,75.39,6,22.62,474.96,05-02-2023,11:02:00,Cash
+INV-IND-00024,MUM,Ahmedabad,Normal,Male,Electronics,55.35,9,24.91,523.06,19-02-2023,12:27:00,Credit Card
+INV-IND-00025,AHM,Ahmedabad,Member,Male,Health & Wellness,83.76,3,12.56,263.84,12-02-2023,21:27:00,Debit Card
+INV-IND-00026,BLR,Ahmedabad,Normal,Female,Groceries,99.17,6,29.75,624.77,27-01-2023,13:21:00,Net Banking
+INV-IND-00027,DEL,Mumbai,Member,Female,Home Appliances,82.9,3,12.44,261.14,01-02-2023,16:31:00,UPI
+INV-IND-00028,MUM,Delhi,Member,Female,Books & Stationery,71.01,1,3.55,74.56,19-03-2023,18:11:00,Cash
+INV-IND-00029,AHM,Kolkata,Normal,Female,Books & Stationery,55.59,5,13.9,291.85,18-01-2023,09:17:00,Cash
+INV-IND-00030,KOL,Hyderabad,Normal,Female,Clothing,47.64,4,9.53,200.09,28-01-2023,21:03:00,Debit Card
+INV-IND-00031,DEL,Pune,Member,Female,Groceries,13.02,7,4.56,95.7,29-01-2023,13:38:00,Cash
+INV-IND-00032,MUM,Hyderabad,Member,Female,Health & Wellness,42.94,6,12.88,270.52,16-01-2023,19:13:00,Cash
+INV-IND-00033,HYD,Kolkata,Normal,Male,Groceries,91.46,7,32.01,672.23,16-02-2023,17:15:00,Debit Card
+INV-IND-00034,CHE,Chennai,Member,Female,Electronics,81.76,5,20.44,429.24,28-02-2023,16:28:00,Net Banking
+INV-IND-00035,HYD,Ahmedabad,Normal,Male,Sports,25.52,4,5.1,107.18,31-01-2023,11:57:00,Credit Card
+INV-IND-00036,MUM,Chennai,Normal,Female,Groceries,49.33,7,17.27,362.58,04-01-2023,10:13:00,Credit Card
+INV-IND-00037,BLR,Pune,Normal,Female,Books & Stationery,82.59,7,28.91,607.04,06-02-2023,11:11:00,UPI
+INV-IND-00038,PUN,Chennai,Normal,Male,Books & Stationery,11.4,6,3.42,71.82,17-01-2023,13:55:00,Net Banking
+INV-IND-00039,PUN,Chennai,Member,Female,Books & Stationery,41.8,8,16.72,351.12,08-02-2023,12:37:00,UPI
+INV-IND-00040,PUN,Ahmedabad,Normal,Female,Home Appliances,85.92,4,17.18,360.86,17-02-2023,08:17:00,Credit Card
+INV-IND-00041,AHM,Kolkata,Member,Male,Groceries,43.37,5,10.84,227.69,15-02-2023,16:43:00,Debit Card
+INV-IND-00042,BLR,Kolkata,Normal,Female,Clothing,12.37,4,2.47,51.95,31-03-2023,10:59:00,Cash
+INV-IND-00043,AHM,Kolkata,Member,Female,Groceries,56.54,1,2.83,59.37,17-02-2023,10:02:00,Credit Card
+INV-IND-00044,DEL,Hyderabad,Normal,Female,Sports,86.87,8,34.75,729.71,08-02-2023,12:05:00,Net Banking
+INV-IND-00045,PUN,Delhi,Member,Male,Books & Stationery,61.08,1,3.05,64.13,04-01-2023,20:13:00,Credit Card
+INV-IND-00046,HYD,Hyderabad,Member,Female,Electronics,26.5,5,6.62,139.12,30-01-2023,14:12:00,Net Banking
+INV-IND-00047,BLR,Chennai,Normal,Female,Books & Stationery,41.5,6,12.45,261.45,30-01-2023,08:50:00,Net Banking
+INV-IND-00048,BLR,Delhi,Normal,Female,Groceries,47.76,6,14.33,300.89,22-01-2023,09:10:00,Net Banking
+INV-IND-00049,PUN,Bangalore,Normal,Female,Home Appliances,60.03,5,15.01,315.16,16-03-2023,15:59:00,UPI
+INV-IND-00050,HYD,Hyderabad,Normal,Male,Health & Wellness,77.14,3,11.57,242.99,07-03-2023,17:19:00,Debit Card
+INV-IND-00051,KOL,Hyderabad,Member,Male,Groceries,14.39,5,3.6,75.55,12-01-2023,08:18:00,Credit Card
+INV-IND-00052,BLR,Ahmedabad,Normal,Female,Groceries,89.52,8,35.81,751.97,05-02-2023,20:53:00,Debit Card
+INV-IND-00053,PUN,Kolkata,Member,Female,Clothing,6.17,2,0.62,12.96,18-01-2023,09:23:00,Cash
+INV-IND-00054,CHE,Kolkata,Member,Male,Home Appliances,40.15,6,12.04,252.94,31-03-2023,10:34:00,Credit Card
+INV-IND-00055,MUM,Delhi,Normal,Male,Sports,7.6,9,3.42,71.82,22-02-2023,17:24:00,Debit Card
+INV-IND-00056,AHM,Hyderabad,Member,Female,Health & Wellness,42.33,8,16.93,355.57,12-03-2023,18:18:00,Debit Card
+INV-IND-00057,DEL,Kolkata,Member,Male,Books & Stationery,54.95,8,21.98,461.58,01-01-2023,13:56:00,Cash
+INV-IND-00058,BLR,Hyderabad,Member,Female,Electronics,53.61,8,21.44,450.32,27-02-2023,21:35:00,Net Banking
+INV-IND-00059,CHE,Chennai,Member,Male,Groceries,20.73,7,7.26,152.37,31-03-2023,18:46:00,Credit Card
+INV-IND-00060,CHE,Bangalore,Normal,Male,Sports,66.35,8,26.54,557.34,28-03-2023,15:22:00,Credit Card
+INV-IND-00061,BLR,Kolkata,Normal,Male,Health & Wellness,9.25,6,2.78,58.28,31-03-2023,09:08:00,Cash
+INV-IND-00062,KOL,Mumbai,Normal,Male,Electronics,77.38,2,7.74,162.5,06-01-2023,16:42:00,Net Banking
+INV-IND-00063,MUM,Bangalore,Normal,Female,Sports,94.93,2,9.49,199.35,11-03-2023,10:22:00,Credit Card
+INV-IND-00064,DEL,Kolkata,Member,Male,Home Appliances,37.28,8,14.91,313.15,13-02-2023,11:11:00,Credit Card
+INV-IND-00065,BLR,Mumbai,Member,Male,Home Appliances,54.14,1,2.71,56.85,13-03-2023,14:26:00,Credit Card
+INV-IND-00066,AHM,Mumbai,Normal,Female,Health & Wellness,41,6,12.3,258.3,24-01-2023,14:17:00,Net Banking
+INV-IND-00067,DEL,Kolkata,Normal,Male,Books & Stationery,5.64,6,1.69,35.53,27-03-2023,17:40:00,Cash
+INV-IND-00068,HYD,Bangalore,Normal,Male,Electronics,41.66,4,8.33,174.97,19-01-2023,16:54:00,Credit Card
+INV-IND-00069,CHE,Ahmedabad,Member,Female,Home Appliances,80.21,3,12.03,252.66,18-01-2023,19:32:00,Debit Card
+INV-IND-00070,CHE,Delhi,Normal,Male,Health & Wellness,61.62,3,9.24,194.1,30-01-2023,12:52:00,Net Banking
+INV-IND-00071,BLR,Mumbai,Normal,Female,Home Appliances,14.62,1,0.73,15.35,11-02-2023,08:08:00,UPI
+INV-IND-00072,BLR,Kolkata,Normal,Female,Home Appliances,85.48,3,12.82,269.26,02-02-2023,12:30:00,Cash
+INV-IND-00073,AHM,Ahmedabad,Member,Female,Sports,55.45,4,11.09,232.89,15-03-2023,14:26:00,Debit Card
+INV-IND-00074,HYD,Ahmedabad,Member,Female,Sports,84.96,5,21.24,446.04,12-01-2023,09:32:00,Credit Card
+INV-IND-00075,KOL,Ahmedabad,Member,Male,Home Appliances,60.12,3,9.02,189.38,27-01-2023,16:48:00,UPI
+INV-IND-00076,BLR,Chennai,Member,Female,Clothing,58.17,6,17.45,366.47,08-02-2023,10:33:00,Cash
+INV-IND-00077,CHE,Bangalore,Member,Male,Sports,15,5,3.75,78.75,09-01-2023,14:44:00,Net Banking
+INV-IND-00078,DEL,Mumbai,Member,Male,Electronics,20.9,3,3.14,65.84,21-01-2023,21:59:00,UPI
+INV-IND-00079,MUM,Kolkata,Member,Male,Health & Wellness,97.34,6,29.2,613.24,17-03-2023,10:28:00,UPI
+INV-IND-00080,PUN,Ahmedabad,Member,Male,Health & Wellness,26.71,6,8.01,168.27,29-01-2023,12:26:00,Debit Card
+INV-IND-00081,DEL,Delhi,Normal,Male,Books & Stationery,97.86,8,39.14,822.02,02-02-2023,15:01:00,Cash
+INV-IND-00082,KOL,Delhi,Normal,Male,Electronics,55.53,2,5.55,116.61,03-03-2023,21:59:00,Debit Card
+INV-IND-00083,MUM,Pune,Member,Male,Electronics,17.9,1,0.9,18.8,15-01-2023,18:17:00,Debit Card
+INV-IND-00084,DEL,Ahmedabad,Member,Male,Electronics,14.43,4,2.89,60.61,02-01-2023,15:51:00,Credit Card
+INV-IND-00085,DEL,Delhi,Normal,Male,Books & Stationery,24.84,7,8.69,182.57,21-02-2023,17:06:00,Net Banking
+INV-IND-00086,HYD,Mumbai,Member,Male,Electronics,92.94,3,13.94,292.76,13-02-2023,18:30:00,UPI
+INV-IND-00087,PUN,Bangalore,Member,Female,Groceries,44.34,3,6.65,139.67,23-02-2023,16:45:00,Cash
+INV-IND-00088,AHM,Bangalore,Member,Female,Books & Stationery,42.57,5,10.64,223.49,18-01-2023,16:22:00,Net Banking
+INV-IND-00089,KOL,Kolkata,Normal,Female,Health & Wellness,34.75,5,8.69,182.44,03-01-2023,08:13:00,Net Banking
+INV-IND-00090,CHE,Delhi,Normal,Male,Groceries,18.97,3,2.85,59.76,07-01-2023,20:57:00,Cash
+INV-IND-00091,HYD,Hyderabad,Normal,Female,Books & Stationery,51.35,9,23.11,485.26,12-02-2023,18:51:00,Net Banking
+INV-IND-00092,MUM,Delhi,Normal,Female,Home Appliances,17.35,4,3.47,72.87,23-03-2023,21:25:00,Credit Card
+INV-IND-00093,PUN,Pune,Normal,Female,Home Appliances,84.37,3,12.66,265.77,07-02-2023,14:03:00,Net Banking
+INV-IND-00094,CHE,Hyderabad,Member,Male,Health & Wellness,40.19,2,4.02,84.4,06-02-2023,09:58:00,Credit Card
+INV-IND-00095,HYD,Pune,Normal,Male,Home Appliances,40.61,9,18.27,383.76,27-02-2023,11:57:00,UPI
+INV-IND-00096,PUN,Ahmedabad,Member,Male,Electronics,50.03,4,10.01,210.13,02-02-2023,17:05:00,UPI
+INV-IND-00097,AHM,Ahmedabad,Member,Male,Books & Stationery,47.19,3,7.08,148.65,28-02-2023,10:48:00,Debit Card
+INV-IND-00098,KOL,Kolkata,Normal,Female,Groceries,99.51,7,34.83,731.4,11-01-2023,16:41:00,Credit Card
+INV-IND-00099,BLR,Pune,Normal,Female,Electronics,56.81,8,22.72,477.2,09-03-2023,18:33:00,UPI
+INV-IND-00100,AHM,Kolkata,Member,Female,Home Appliances,13.38,2,1.34,28.1,23-03-2023,18:56:00,Net Banking
+INV-IND-00101,BLR,Mumbai,Member,Female,Sports,62.65,7,21.93,460.48,09-03-2023,20:14:00,Cash
+INV-IND-00102,MUM,Delhi,Member,Male,Groceries,19.4,5,4.85,101.85,29-03-2023,20:48:00,Cash
+INV-IND-00103,BLR,Hyderabad,Normal,Male,Electronics,7.94,5,1.99,41.69,22-01-2023,20:59:00,Credit Card
+INV-IND-00104,HYD,Hyderabad,Normal,Male,Books & Stationery,97.22,3,14.58,306.24,07-03-2023,16:35:00,Debit Card
+INV-IND-00105,MUM,Kolkata,Normal,Female,Health & Wellness,78.49,5,19.62,412.07,13-02-2023,14:36:00,Net Banking
+INV-IND-00106,CHE,Delhi,Normal,Male,Electronics,98.11,2,9.81,206.03,06-01-2023,09:45:00,Credit Card
+INV-IND-00107,AHM,Bangalore,Normal,Male,Sports,50.4,4,10.08,211.68,11-02-2023,09:24:00,Cash
+INV-IND-00108,AHM,Hyderabad,Member,Female,Home Appliances,55.56,6,16.67,350.03,25-01-2023,11:33:00,Credit Card
+INV-IND-00109,KOL,Bangalore,Normal,Female,Groceries,20.99,1,1.05,22.04,26-02-2023,10:00:00,Net Banking
+INV-IND-00110,MUM,Delhi,Member,Male,Health & Wellness,28.46,4,5.69,119.53,26-03-2023,10:11:00,UPI
+INV-IND-00111,CHE,Bangalore,Member,Male,Groceries,84.66,6,25.4,533.36,24-02-2023,11:16:00,Net Banking
+INV-IND-00112,AHM,Mumbai,Member,Male,Health & Wellness,38.84,9,17.48,367.04,16-01-2023,08:18:00,UPI
+INV-IND-00113,MUM,Pune,Normal,Male,Books & Stationery,83.55,2,8.36,175.46,14-01-2023,18:41:00,UPI
+INV-IND-00114,DEL,Ahmedabad,Normal,Male,Groceries,72.36,7,25.33,531.85,08-02-2023,08:11:00,UPI
+INV-IND-00115,DEL,Ahmedabad,Normal,Male,Home Appliances,21.83,6,6.55,137.53,28-01-2023,09:20:00,Credit Card
+INV-IND-00116,MUM,Kolkata,Member,Female,Books & Stationery,53.21,2,5.32,111.74,20-02-2023,13:29:00,Cash
+INV-IND-00117,AHM,Mumbai,Member,Female,Books & Stationery,69.35,8,27.74,582.54,18-02-2023,20:53:00,Credit Card
+INV-IND-00118,PUN,Hyderabad,Member,Female,Health & Wellness,27.33,7,9.57,200.88,09-01-2023,14:31:00,Cash
+INV-IND-00119,BLR,Kolkata,Member,Male,Clothing,83.92,5,20.98,440.58,27-02-2023,18:36:00,Net Banking
+INV-IND-00120,DEL,Kolkata,Member,Female,Groceries,56.76,5,14.19,297.99,14-02-2023,13:06:00,Debit Card
+INV-IND-00121,PUN,Ahmedabad,Member,Male,Groceries,20.7,7,7.25,152.15,22-01-2023,12:26:00,Net Banking
+INV-IND-00122,PUN,Delhi,Normal,Male,Electronics,60.38,9,27.17,570.59,01-02-2023,15:26:00,Credit Card
+INV-IND-00123,KOL,Hyderabad,Normal,Female,Health & Wellness,99.97,9,44.99,944.72,10-03-2023,15:20:00,Credit Card
+INV-IND-00124,CHE,Kolkata,Normal,Male,Sports,19.3,9,8.68,182.38,28-03-2023,18:51:00,Cash
+INV-IND-00125,HYD,Hyderabad,Normal,Male,Clothing,82.59,6,24.78,520.32,10-03-2023,08:01:00,Credit Card
+INV-IND-00126,DEL,Pune,Member,Female,Home Appliances,24.69,6,7.41,155.55,11-02-2023,16:39:00,UPI
+INV-IND-00127,MUM,Delhi,Member,Female,Electronics,79.33,3,11.9,249.89,22-02-2023,20:41:00,Credit Card
+INV-IND-00128,BLR,Hyderabad,Normal,Female,Clothing,74.78,1,3.74,78.52,28-02-2023,18:50:00,Cash
+INV-IND-00129,HYD,Bangalore,Member,Male,Health & Wellness,33.55,7,11.74,246.59,15-03-2023,18:35:00,Cash
+INV-IND-00130,CHE,Kolkata,Normal,Female,Clothing,35.95,4,7.19,150.99,08-02-2023,13:08:00,UPI
+INV-IND-00131,PUN,Bangalore,Normal,Female,Books & Stationery,80.29,1,4.01,84.3,15-01-2023,20:19:00,Cash
+INV-IND-00132,CHE,Delhi,Normal,Male,Groceries,48.84,8,19.54,410.26,12-03-2023,16:41:00,Debit Card
+INV-IND-00133,AHM,Mumbai,Member,Female,Books & Stationery,74.43,6,22.33,468.91,29-01-2023,15:48:00,Net Banking
+INV-IND-00134,DEL,Bangalore,Normal,Female,Groceries,19.06,6,5.72,120.08,03-01-2023,11:31:00,Credit Card
+INV-IND-00135,CHE,Kolkata,Normal,Female,Electronics,85.99,2,8.6,180.58,24-03-2023,09:51:00,Debit Card
+INV-IND-00136,CHE,Kolkata,Normal,Male,Health & Wellness,72.53,1,3.63,76.16,10-01-2023,08:07:00,Credit Card
+INV-IND-00137,BLR,Ahmedabad,Member,Male,Health & Wellness,91.16,2,9.12,191.44,29-01-2023,21:23:00,Debit Card
+INV-IND-00138,AHM,Delhi,Member,Male,Clothing,17.58,4,3.52,73.84,20-03-2023,15:56:00,Credit Card
+INV-IND-00139,AHM,Ahmedabad,Normal,Male,Electronics,61.34,2,6.13,128.81,04-02-2023,15:39:00,UPI
+INV-IND-00140,PUN,Kolkata,Member,Female,Health & Wellness,61.92,1,3.1,65.02,06-01-2023,12:12:00,Cash
+INV-IND-00141,BLR,Pune,Member,Male,Sports,38.58,7,13.5,283.56,12-01-2023,16:45:00,Cash
+INV-IND-00142,BLR,Kolkata,Member,Male,Sports,48.55,8,19.42,407.82,07-02-2023,20:31:00,UPI
+INV-IND-00143,MUM,Ahmedabad,Member,Female,Books & Stationery,8.61,6,2.58,54.24,18-03-2023,15:17:00,Debit Card
+INV-IND-00144,CHE,Ahmedabad,Member,Female,Groceries,75.86,4,15.17,318.61,19-01-2023,20:33:00,Net Banking
+INV-IND-00145,CHE,Delhi,Member,Female,Clothing,57.19,6,17.16,360.3,08-03-2023,19:00:00,Debit Card
+INV-IND-00146,AHM,Mumbai,Member,Male,Home Appliances,10.49,3,1.57,33.04,08-01-2023,11:55:00,Cash
+INV-IND-00147,CHE,Pune,Member,Male,Groceries,69.67,8,27.87,585.23,08-01-2023,13:05:00,Net Banking
+INV-IND-00148,KOL,Chennai,Member,Male,Electronics,49.34,2,4.93,103.61,25-03-2023,15:57:00,Credit Card
+INV-IND-00149,BLR,Kolkata,Member,Female,Health & Wellness,8.27,5,2.07,43.42,16-02-2023,19:18:00,Net Banking
+INV-IND-00150,HYD,Mumbai,Normal,Female,Groceries,97.11,1,4.86,101.97,04-01-2023,08:19:00,Debit Card
+INV-IND-00151,AHM,Delhi,Normal,Male,Home Appliances,95.17,6,28.55,599.57,20-02-2023,11:35:00,UPI
+INV-IND-00152,DEL,Hyderabad,Member,Female,Home Appliances,53.73,2,5.37,112.83,26-03-2023,10:14:00,Credit Card
+INV-IND-00153,AHM,Mumbai,Normal,Female,Sports,13.9,4,2.78,58.38,08-03-2023,10:08:00,Debit Card
+INV-IND-00154,PUN,Kolkata,Normal,Female,Electronics,76.69,6,23.01,483.15,14-02-2023,14:49:00,Credit Card
+INV-IND-00155,HYD,Mumbai,Member,Male,Groceries,51.73,8,20.69,434.53,08-01-2023,15:01:00,Net Banking
+INV-IND-00156,PUN,Bangalore,Member,Female,Clothing,33.73,8,13.49,283.33,28-03-2023,12:53:00,Cash
+INV-IND-00157,MUM,Ahmedabad,Member,Female,Groceries,51.68,6,15.5,325.58,16-01-2023,12:05:00,Debit Card
+INV-IND-00158,MUM,Ahmedabad,Normal,Male,Sports,54.63,4,10.93,229.45,18-03-2023,19:40:00,UPI
+INV-IND-00159,PUN,Kolkata,Normal,Male,Books & Stationery,58.46,8,23.38,491.06,08-03-2023,17:15:00,Net Banking
+INV-IND-00160,CHE,Bangalore,Member,Female,Home Appliances,46.92,8,18.77,394.13,09-01-2023,09:25:00,Debit Card
+INV-IND-00161,HYD,Pune,Member,Female,Electronics,62.55,1,3.13,65.68,01-03-2023,17:15:00,UPI
+INV-IND-00162,CHE,Ahmedabad,Member,Male,Electronics,92.28,4,18.46,387.58,19-03-2023,14:14:00,Debit Card
+INV-IND-00163,AHM,Delhi,Normal,Male,Clothing,39.42,4,7.88,165.56,18-03-2023,15:25:00,Net Banking
+INV-IND-00164,KOL,Ahmedabad,Normal,Female,Electronics,73.94,7,25.88,543.46,12-03-2023,14:17:00,Debit Card
+INV-IND-00165,MUM,Chennai,Normal,Female,Sports,89.97,7,31.49,661.28,15-01-2023,14:29:00,Credit Card
+INV-IND-00166,MUM,Pune,Normal,Female,Sports,48.32,8,19.33,405.89,12-03-2023,18:56:00,Net Banking
+INV-IND-00167,HYD,Chennai,Member,Female,Sports,47.13,5,11.78,247.43,10-02-2023,08:50:00,Debit Card
+INV-IND-00168,MUM,Chennai,Member,Male,Electronics,62.2,7,21.77,457.17,22-01-2023,12:01:00,Cash
+INV-IND-00169,KOL,Delhi,Member,Female,Electronics,61.18,8,24.47,513.91,24-01-2023,12:53:00,Debit Card
+INV-IND-00170,KOL,Bangalore,Member,Female,Sports,81.63,9,36.73,771.4,13-02-2023,17:22:00,Credit Card
+INV-IND-00171,KOL,Chennai,Normal,Male,Electronics,50.27,3,7.54,158.35,01-01-2023,12:25:00,UPI
+INV-IND-00172,DEL,Pune,Normal,Female,Electronics,99.63,3,14.94,313.83,10-01-2023,09:59:00,UPI
+INV-IND-00173,KOL,Ahmedabad,Member,Male,Home Appliances,10.65,4,2.13,44.73,21-03-2023,19:51:00,UPI
+INV-IND-00174,KOL,Kolkata,Member,Female,Groceries,5.3,5,1.33,27.83,13-03-2023,12:07:00,Cash
+INV-IND-00175,DEL,Pune,Normal,Female,Health & Wellness,65.82,1,3.29,69.11,25-02-2023,09:09:00,Credit Card
+INV-IND-00176,CHE,Mumbai,Member,Male,Electronics,33.35,7,11.67,245.12,30-03-2023,08:56:00,Net Banking
+INV-IND-00177,AHM,Ahmedabad,Normal,Male,Health & Wellness,27.84,9,12.53,263.09,19-02-2023,14:21:00,UPI
+INV-IND-00178,BLR,Delhi,Member,Female,Books & Stationery,34.63,8,13.85,290.89,12-01-2023,08:38:00,Credit Card
+INV-IND-00179,MUM,Chennai,Member,Female,Health & Wellness,29.32,5,7.33,153.93,30-03-2023,21:20:00,Debit Card
+INV-IND-00180,KOL,Kolkata,Member,Female,Home Appliances,7.93,4,1.59,33.31,22-03-2023,15:22:00,Cash
+INV-IND-00181,MUM,Chennai,Member,Male,Electronics,97.3,7,34.06,715.16,01-03-2023,08:17:00,Credit Card
+INV-IND-00182,HYD,Delhi,Member,Female,Sports,25.97,5,6.49,136.34,26-01-2023,20:11:00,Credit Card
+INV-IND-00183,MUM,Pune,Member,Male,Health & Wellness,74.73,7,26.16,549.27,19-03-2023,21:44:00,Net Banking
+INV-IND-00184,PUN,Mumbai,Member,Male,Electronics,77.45,1,3.87,81.32,10-02-2023,20:35:00,Credit Card
+INV-IND-00185,CHE,Ahmedabad,Normal,Female,Clothing,93.28,1,4.66,97.94,05-02-2023,13:51:00,Net Banking
+INV-IND-00186,AHM,Pune,Normal,Male,Books & Stationery,7.9,3,1.19,24.89,23-01-2023,21:35:00,Cash
+INV-IND-00187,DEL,Mumbai,Normal,Female,Sports,87.84,2,8.78,184.46,12-02-2023,12:57:00,Cash
+INV-IND-00188,MUM,Hyderabad,Normal,Female,Clothing,55.09,2,5.51,115.69,06-01-2023,12:42:00,Debit Card
+INV-IND-00189,MUM,Chennai,Normal,Female,Clothing,65.09,7,22.78,478.41,10-03-2023,17:45:00,Net Banking
+INV-IND-00190,MUM,Ahmedabad,Member,Female,Health & Wellness,66.22,2,6.62,139.06,12-02-2023,09:49:00,Net Banking
+INV-IND-00191,BLR,Ahmedabad,Member,Female,Clothing,82.88,4,16.58,348.1,25-01-2023,10:59:00,UPI
+INV-IND-00192,BLR,Mumbai,Normal,Male,Home Appliances,36.67,2,3.67,77.01,18-01-2023,17:03:00,UPI
+INV-IND-00193,HYD,Hyderabad,Member,Male,Home Appliances,74.64,6,22.39,470.23,03-03-2023,20:25:00,Debit Card
+INV-IND-00194,DEL,Kolkata,Normal,Female,Health & Wellness,55.21,8,22.08,463.76,13-01-2023,21:13:00,Cash
+INV-IND-00195,MUM,Bangalore,Normal,Female,Electronics,80.37,4,16.07,337.55,12-02-2023,08:24:00,UPI
+INV-IND-00196,MUM,Kolkata,Member,Male,Groceries,99.1,5,24.78,520.28,19-03-2023,21:10:00,Credit Card
+INV-IND-00197,MUM,Ahmedabad,Member,Male,Electronics,24.06,4,4.81,101.05,28-01-2023,20:17:00,Cash
+INV-IND-00198,MUM,Ahmedabad,Member,Male,Electronics,99.49,3,14.92,313.39,18-01-2023,08:56:00,Credit Card
+INV-IND-00199,BLR,Delhi,Normal,Male,Electronics,13.53,5,3.38,71.03,28-02-2023,10:59:00,Net Banking
+INV-IND-00200,CHE,Mumbai,Member,Female,Electronics,5.22,9,2.35,49.33,01-03-2023,11:51:00,Cash
+INV-IND-00201,CHE,Hyderabad,Normal,Female,Sports,9.2,8,3.68,77.28,04-03-2023,13:42:00,Debit Card
+INV-IND-00202,HYD,Bangalore,Normal,Male,Groceries,37.47,8,14.99,314.75,26-02-2023,15:56:00,Net Banking
+INV-IND-00203,PUN,Kolkata,Normal,Female,Sports,65.13,8,26.05,547.09,20-02-2023,21:18:00,Net Banking
+INV-IND-00204,KOL,Mumbai,Member,Male,Clothing,11.56,8,4.62,97.1,25-02-2023,17:35:00,Credit Card
+INV-IND-00205,DEL,Pune,Member,Female,Books & Stationery,5.54,7,1.94,40.72,27-01-2023,15:34:00,Net Banking
+INV-IND-00206,CHE,Delhi,Normal,Male,Electronics,94.02,8,37.61,789.77,01-02-2023,11:51:00,UPI
+INV-IND-00207,PUN,Hyderabad,Member,Female,Books & Stationery,83.08,8,33.23,697.87,09-01-2023,12:48:00,Cash
+INV-IND-00208,AHM,Delhi,Member,Male,Home Appliances,81.87,8,32.75,687.71,25-03-2023,11:32:00,UPI
+INV-IND-00209,AHM,Ahmedabad,Member,Male,Health & Wellness,89.02,7,31.16,654.3,09-03-2023,12:17:00,Credit Card
+INV-IND-00210,MUM,Delhi,Normal,Female,Health & Wellness,71.5,1,3.58,75.08,15-02-2023,16:49:00,Credit Card
+INV-IND-00211,AHM,Bangalore,Normal,Male,Sports,14.92,4,2.98,62.66,08-03-2023,19:26:00,Cash
+INV-IND-00212,CHE,Ahmedabad,Member,Female,Sports,42.91,4,8.58,180.22,26-01-2023,11:48:00,Net Banking
+INV-IND-00213,HYD,Kolkata,Normal,Female,Home Appliances,73.7,5,18.42,386.92,08-01-2023,11:45:00,Debit Card
+INV-IND-00214,KOL,Kolkata,Member,Male,Electronics,31.63,6,9.49,199.27,06-01-2023,17:55:00,Credit Card
+INV-IND-00215,CHE,Pune,Member,Female,Books & Stationery,70.3,4,14.06,295.26,21-03-2023,21:22:00,Cash
+INV-IND-00216,HYD,Ahmedabad,Member,Female,Books & Stationery,7.33,2,0.73,15.39,24-01-2023,15:14:00,Debit Card
+INV-IND-00217,AHM,Ahmedabad,Member,Female,Groceries,34.08,6,10.22,214.7,17-02-2023,20:37:00,Net Banking
+INV-IND-00218,BLR,Hyderabad,Normal,Female,Clothing,57.17,8,22.87,480.23,14-02-2023,14:41:00,Credit Card
+INV-IND-00219,KOL,Ahmedabad,Normal,Female,Health & Wellness,65.05,8,26.02,546.42,13-01-2023,18:21:00,Cash
+INV-IND-00220,HYD,Bangalore,Normal,Male,Clothing,59.82,7,20.94,439.68,10-03-2023,20:45:00,Cash
+INV-IND-00221,PUN,Pune,Member,Female,Groceries,71.29,6,21.39,449.13,25-01-2023,09:27:00,Cash
+INV-IND-00222,CHE,Hyderabad,Member,Female,Sports,5.58,2,0.56,11.72,20-01-2023,17:43:00,Credit Card
+INV-IND-00223,BLR,Bangalore,Member,Female,Books & Stationery,14.59,7,5.11,107.24,23-03-2023,17:01:00,Debit Card
+INV-IND-00224,PUN,Delhi,Normal,Female,Health & Wellness,87.55,5,21.89,459.64,23-03-2023,19:23:00,Cash
+INV-IND-00225,HYD,Kolkata,Member,Female,Clothing,69.77,6,20.93,439.55,07-03-2023,13:08:00,Net Banking
+INV-IND-00226,HYD,Pune,Normal,Male,Sports,15.73,8,6.29,132.13,15-03-2023,13:42:00,Cash
+INV-IND-00227,AHM,Chennai,Normal,Female,Groceries,85,8,34,714,14-02-2023,15:15:00,Debit Card
+INV-IND-00228,PUN,Kolkata,Normal,Male,Clothing,28.01,3,4.2,88.23,16-02-2023,10:56:00,Credit Card
+INV-IND-00229,CHE,Mumbai,Normal,Male,Books & Stationery,50.43,7,17.65,370.66,04-03-2023,10:18:00,Cash
+INV-IND-00230,KOL,Kolkata,Normal,Male,Electronics,18.79,1,0.94,19.73,17-03-2023,11:13:00,Cash
+INV-IND-00231,BLR,Kolkata,Normal,Male,Sports,72.46,1,3.62,76.08,18-03-2023,11:05:00,Net Banking
+INV-IND-00232,AHM,Ahmedabad,Member,Female,Groceries,68.35,7,23.92,502.37,24-02-2023,11:37:00,Net Banking
+INV-IND-00233,MUM,Bangalore,Member,Male,Clothing,25.06,9,11.28,236.82,16-03-2023,10:43:00,Cash
+INV-IND-00234,DEL,Ahmedabad,Normal,Male,Books & Stationery,87.02,7,30.46,639.6,19-01-2023,10:40:00,Cash
+INV-IND-00235,KOL,Ahmedabad,Normal,Female,Electronics,43.12,5,10.78,226.38,04-02-2023,16:44:00,Net Banking
+INV-IND-00236,AHM,Chennai,Member,Female,Electronics,32.79,8,13.12,275.44,22-02-2023,21:27:00,Debit Card
+INV-IND-00237,BLR,Chennai,Normal,Female,Groceries,19.47,2,1.95,40.89,26-01-2023,18:00:00,UPI
+INV-IND-00238,PUN,Pune,Normal,Male,Home Appliances,30.29,9,13.63,286.24,14-01-2023,21:55:00,UPI
+INV-IND-00239,HYD,Ahmedabad,Member,Female,Books & Stationery,7.09,6,2.13,44.67,14-02-2023,08:41:00,Cash
+INV-IND-00240,PUN,Chennai,Normal,Female,Books & Stationery,60.41,9,27.18,570.87,13-02-2023,11:29:00,Net Banking
+INV-IND-00241,AHM,Hyderabad,Normal,Male,Health & Wellness,85.01,2,8.5,178.52,29-03-2023,20:20:00,Credit Card
+INV-IND-00242,BLR,Hyderabad,Normal,Female,Groceries,57.15,3,8.57,180.02,06-03-2023,12:34:00,Credit Card
+INV-IND-00243,PUN,Pune,Member,Female,Electronics,25.83,8,10.33,216.97,20-02-2023,12:38:00,UPI
+INV-IND-00244,PUN,Hyderabad,Member,Female,Electronics,8.2,1,0.41,8.61,12-02-2023,12:10:00,Debit Card
+INV-IND-00245,DEL,Pune,Member,Female,Groceries,25.39,7,8.89,186.62,27-03-2023,13:09:00,UPI
+INV-IND-00246,CHE,Mumbai,Normal,Male,Home Appliances,44.53,7,15.59,327.3,23-01-2023,19:59:00,Cash
+INV-IND-00247,AHM,Chennai,Normal,Female,Health & Wellness,77.16,1,3.86,81.02,25-02-2023,21:52:00,Debit Card
+INV-IND-00248,DEL,Ahmedabad,Member,Female,Clothing,22.85,9,10.28,215.93,19-01-2023,10:19:00,Credit Card
+INV-IND-00249,AHM,Pune,Normal,Male,Groceries,73.38,8,29.35,616.39,23-03-2023,21:11:00,Net Banking
+INV-IND-00250,MUM,Pune,Normal,Female,Health & Wellness,87.36,4,17.47,366.91,17-03-2023,17:05:00,Net Banking
+INV-IND-00251,MUM,Bangalore,Normal,Male,Books & Stationery,48.12,5,12.03,252.63,24-02-2023,21:40:00,Cash
+INV-IND-00252,DEL,Ahmedabad,Normal,Female,Health & Wellness,83.04,2,8.3,174.38,01-03-2023,16:49:00,UPI
+INV-IND-00253,KOL,Mumbai,Normal,Male,Sports,57.69,9,25.96,545.17,28-02-2023,08:56:00,Cash
+INV-IND-00254,KOL,Bangalore,Member,Male,Electronics,65.52,6,19.66,412.78,02-02-2023,09:51:00,Net Banking
+INV-IND-00255,PUN,Chennai,Normal,Male,Clothing,55,3,8.25,173.25,19-01-2023,08:04:00,Credit Card
+INV-IND-00256,PUN,Delhi,Member,Male,Groceries,49,7,17.15,360.15,28-01-2023,14:49:00,Net Banking
+INV-IND-00257,HYD,Ahmedabad,Normal,Female,Electronics,27.29,9,12.28,257.89,21-02-2023,14:53:00,Debit Card
+INV-IND-00258,MUM,Delhi,Member,Male,Sports,33.8,3,5.07,106.47,18-02-2023,11:01:00,Net Banking
+INV-IND-00259,AHM,Ahmedabad,Normal,Female,Sports,32.55,2,3.26,68.36,06-02-2023,08:12:00,Net Banking
+INV-IND-00260,HYD,Mumbai,Member,Male,Electronics,58.51,7,20.48,430.05,26-01-2023,13:38:00,Debit Card
+INV-IND-00261,MUM,Bangalore,Normal,Male,Home Appliances,16.4,7,5.74,120.54,09-02-2023,21:16:00,UPI
+INV-IND-00262,DEL,Pune,Member,Male,Health & Wellness,92.1,4,18.42,386.82,21-03-2023,12:18:00,Net Banking
+INV-IND-00263,KOL,Bangalore,Normal,Female,Groceries,73.46,9,33.06,694.2,07-02-2023,09:29:00,Cash
+INV-IND-00264,PUN,Delhi,Member,Male,Groceries,43.14,8,17.26,362.38,18-03-2023,18:15:00,Net Banking
+INV-IND-00265,KOL,Ahmedabad,Normal,Female,Groceries,20.07,1,1,21.07,28-03-2023,19:37:00,Cash
+INV-IND-00266,DEL,Kolkata,Member,Female,Electronics,88.79,1,4.44,93.23,23-02-2023,12:09:00,Debit Card
+INV-IND-00267,HYD,Chennai,Member,Female,Books & Stationery,83.26,5,20.82,437.12,22-01-2023,12:14:00,Net Banking
+INV-IND-00268,HYD,Pune,Normal,Female,Home Appliances,73.56,6,22.07,463.43,16-01-2023,17:47:00,Debit Card
+INV-IND-00269,BLR,Delhi,Normal,Female,Clothing,30.8,3,4.62,97.02,28-01-2023,09:47:00,Debit Card
+INV-IND-00270,PUN,Chennai,Member,Female,Sports,43.23,9,19.45,408.52,04-02-2023,19:07:00,UPI
+INV-IND-00271,PUN,Pune,Normal,Female,Electronics,14.76,6,4.43,92.99,01-03-2023,17:53:00,Net Banking
+INV-IND-00272,AHM,Chennai,Member,Female,Books & Stationery,22.96,4,4.59,96.43,14-02-2023,17:48:00,Cash
+INV-IND-00273,PUN,Ahmedabad,Member,Female,Clothing,79.39,7,27.79,583.52,15-02-2023,16:04:00,Cash
+INV-IND-00274,MUM,Mumbai,Member,Male,Sports,72.93,8,29.17,612.61,13-03-2023,12:17:00,Net Banking
+INV-IND-00275,HYD,Delhi,Normal,Male,Sports,61.38,9,27.62,580.04,24-02-2023,18:38:00,UPI
+INV-IND-00276,DEL,Hyderabad,Member,Male,Home Appliances,90.09,6,27.03,567.57,27-03-2023,12:41:00,UPI
+INV-IND-00277,HYD,Kolkata,Member,Male,Health & Wellness,60.41,6,18.12,380.58,26-03-2023,09:27:00,UPI
+INV-IND-00278,KOL,Hyderabad,Normal,Male,Groceries,49.36,8,19.74,414.62,26-01-2023,11:23:00,Cash
+INV-IND-00279,MUM,Delhi,Normal,Female,Clothing,37.34,5,9.34,196.04,26-03-2023,08:15:00,Debit Card
+INV-IND-00280,PUN,Pune,Normal,Female,Electronics,94.34,3,14.15,297.17,25-01-2023,10:30:00,UPI
+INV-IND-00281,AHM,Delhi,Normal,Female,Clothing,12.86,3,1.93,40.51,06-03-2023,12:13:00,Cash
+INV-IND-00282,AHM,Delhi,Member,Female,Health & Wellness,93.43,6,28.03,588.61,06-01-2023,11:07:00,Cash
+INV-IND-00283,AHM,Ahmedabad,Member,Female,Groceries,83.54,2,8.35,175.43,23-01-2023,13:28:00,Debit Card
+INV-IND-00284,CHE,Bangalore,Member,Female,Clothing,17.34,6,5.2,109.24,05-03-2023,17:03:00,Net Banking
+INV-IND-00285,BLR,Kolkata,Member,Female,Health & Wellness,58.67,6,17.6,369.62,28-03-2023,21:02:00,Net Banking
+INV-IND-00286,MUM,Mumbai,Normal,Male,Electronics,87.32,8,34.93,733.49,12-02-2023,14:36:00,UPI
+INV-IND-00287,KOL,Mumbai,Member,Male,Home Appliances,59.32,7,20.76,436,23-01-2023,16:36:00,UPI
+INV-IND-00288,PUN,Chennai,Member,Male,Books & Stationery,91.18,8,36.47,765.91,30-01-2023,15:38:00,Debit Card
+INV-IND-00289,KOL,Mumbai,Normal,Male,Sports,94.58,9,42.56,893.78,18-03-2023,13:29:00,UPI
+INV-IND-00290,KOL,Kolkata,Member,Female,Electronics,45.13,6,13.54,284.32,18-01-2023,21:39:00,Debit Card
+INV-IND-00291,PUN,Chennai,Member,Female,Groceries,40.84,3,6.13,128.65,28-03-2023,10:48:00,Cash
+INV-IND-00292,KOL,Chennai,Member,Female,Sports,93.95,3,14.09,295.94,20-03-2023,19:32:00,UPI
+INV-IND-00293,AHM,Pune,Member,Male,Books & Stationery,69.14,1,3.46,72.6,21-01-2023,14:05:00,Cash
+INV-IND-00294,DEL,Bangalore,Member,Female,Electronics,16.02,5,4,84.1,26-02-2023,10:57:00,Credit Card
+INV-IND-00295,BLR,Hyderabad,Member,Female,Electronics,9.02,4,1.8,37.88,23-01-2023,18:54:00,Debit Card
+INV-IND-00296,CHE,Pune,Normal,Female,Electronics,58.64,9,26.39,554.15,14-02-2023,14:01:00,Credit Card
+INV-IND-00297,KOL,Bangalore,Normal,Male,Electronics,93.37,9,42.02,882.35,13-02-2023,20:39:00,UPI
+INV-IND-00298,KOL,Bangalore,Member,Female,Sports,85.2,5,21.3,447.3,23-03-2023,18:38:00,Cash
+INV-IND-00299,HYD,Bangalore,Member,Male,Groceries,69.21,4,13.84,290.68,29-03-2023,20:54:00,UPI
+INV-IND-00300,BLR,Delhi,Normal,Male,Books & Stationery,18.22,7,6.38,133.92,16-02-2023,08:39:00,Credit Card
+INV-IND-00301,MUM,Pune,Member,Male,Health & Wellness,29.15,6,8.74,183.64,09-02-2023,14:55:00,UPI
+INV-IND-00302,BLR,Hyderabad,Member,Male,Clothing,88.17,4,17.63,370.31,20-02-2023,13:54:00,Net Banking
+INV-IND-00303,BLR,Ahmedabad,Member,Female,Home Appliances,22.37,2,2.24,46.98,11-02-2023,12:14:00,Credit Card
+INV-IND-00304,PUN,Bangalore,Normal,Male,Books & Stationery,31.45,1,1.57,33.02,07-01-2023,10:22:00,UPI
+INV-IND-00305,PUN,Hyderabad,Member,Male,Clothing,17.31,4,3.46,72.7,19-02-2023,20:31:00,Cash
+INV-IND-00306,PUN,Ahmedabad,Normal,Female,Clothing,69.23,4,13.85,290.77,17-02-2023,20:19:00,UPI
+INV-IND-00307,CHE,Kolkata,Member,Female,Home Appliances,94.68,1,4.73,99.41,25-03-2023,19:49:00,Cash
+INV-IND-00308,AHM,Ahmedabad,Normal,Male,Books & Stationery,30.55,6,9.17,192.47,06-01-2023,17:36:00,Net Banking
+INV-IND-00309,BLR,Kolkata,Normal,Female,Sports,50.16,4,10.03,210.67,09-01-2023,08:10:00,UPI
+INV-IND-00310,CHE,Mumbai,Member,Male,Groceries,65.26,1,3.26,68.52,26-02-2023,18:19:00,Net Banking
+INV-IND-00311,KOL,Ahmedabad,Normal,Male,Home Appliances,99.95,1,5,104.95,31-01-2023,08:25:00,Credit Card
+INV-IND-00312,PUN,Kolkata,Member,Male,Groceries,14.96,1,0.75,15.71,21-01-2023,15:00:00,Cash
+INV-IND-00313,KOL,Bangalore,Normal,Male,Sports,52.36,8,20.94,439.82,31-03-2023,19:02:00,Credit Card
+INV-IND-00314,PUN,Delhi,Member,Female,Clothing,41.59,8,16.64,349.36,09-02-2023,11:40:00,Cash
+INV-IND-00315,DEL,Ahmedabad,Member,Male,Groceries,87.25,2,8.72,183.22,14-02-2023,16:15:00,Net Banking
+INV-IND-00316,CHE,Chennai,Normal,Female,Sports,50.22,7,17.58,369.12,18-03-2023,11:56:00,Debit Card
+INV-IND-00317,CHE,Kolkata,Member,Female,Sports,15.54,8,6.22,130.54,18-02-2023,11:56:00,UPI
+INV-IND-00318,AHM,Pune,Member,Female,Health & Wellness,65.27,8,26.11,548.27,28-03-2023,11:38:00,Net Banking
+INV-IND-00319,MUM,Kolkata,Normal,Female,Home Appliances,78.22,7,27.38,574.92,20-01-2023,16:06:00,Cash
+INV-IND-00320,HYD,Ahmedabad,Member,Male,Health & Wellness,5.27,5,1.32,27.67,17-01-2023,15:40:00,Cash
+INV-IND-00321,BLR,Kolkata,Member,Female,Clothing,86.6,1,4.33,90.93,28-01-2023,19:02:00,Cash
+INV-IND-00322,MUM,Hyderabad,Normal,Male,Home Appliances,22.67,9,10.2,214.23,10-02-2023,18:34:00,Cash
+INV-IND-00323,CHE,Pune,Normal,Female,Clothing,57.45,7,20.11,422.26,07-03-2023,10:23:00,UPI
+INV-IND-00324,MUM,Ahmedabad,Member,Female,Health & Wellness,44.5,2,4.45,93.45,25-01-2023,11:08:00,Credit Card
+INV-IND-00325,DEL,Delhi,Member,Male,Books & Stationery,73.37,6,22.01,462.23,27-02-2023,12:14:00,Debit Card
+INV-IND-00326,HYD,Hyderabad,Normal,Male,Sports,40.26,2,4.03,84.55,10-02-2023,09:07:00,UPI
+INV-IND-00327,AHM,Pune,Normal,Male,Clothing,87.63,1,4.38,92.01,06-01-2023,18:15:00,Cash
+INV-IND-00328,CHE,Chennai,Member,Female,Home Appliances,74.4,7,26.04,546.84,16-03-2023,13:35:00,UPI
+INV-IND-00329,CHE,Kolkata,Normal,Female,Home Appliances,66.53,2,6.65,139.71,07-02-2023,19:10:00,Net Banking
+INV-IND-00330,BLR,Kolkata,Member,Male,Clothing,80.64,2,8.06,169.34,06-01-2023,21:40:00,Cash
+INV-IND-00331,AHM,Mumbai,Member,Male,Home Appliances,76.63,5,19.16,402.31,14-02-2023,14:48:00,Debit Card
+INV-IND-00332,AHM,Pune,Member,Male,Sports,8.41,5,2.1,44.15,16-03-2023,12:59:00,Cash
+INV-IND-00333,PUN,Kolkata,Member,Male,Books & Stationery,42.5,7,14.88,312.38,14-01-2023,18:01:00,Debit Card
+INV-IND-00334,HYD,Mumbai,Member,Female,Sports,93.43,1,4.67,98.1,07-03-2023,13:56:00,Debit Card
+INV-IND-00335,DEL,Mumbai,Normal,Male,Home Appliances,16.94,8,6.78,142.3,09-02-2023,12:15:00,Credit Card
+INV-IND-00336,KOL,Ahmedabad,Normal,Male,Clothing,75.02,3,11.25,236.31,03-01-2023,13:52:00,Credit Card
+INV-IND-00337,MUM,Kolkata,Normal,Male,Health & Wellness,97.59,4,19.52,409.88,24-01-2023,20:11:00,UPI
+INV-IND-00338,AHM,Hyderabad,Normal,Male,Home Appliances,9.96,9,4.48,94.12,19-01-2023,16:40:00,UPI
+INV-IND-00339,BLR,Chennai,Member,Female,Home Appliances,69.81,4,13.96,293.2,18-01-2023,16:43:00,Debit Card
+INV-IND-00340,CHE,Hyderabad,Member,Male,Home Appliances,49.47,5,12.37,259.72,05-03-2023,21:56:00,Cash
+INV-IND-00341,KOL,Hyderabad,Member,Female,Home Appliances,60.02,7,21.01,441.15,29-03-2023,20:35:00,Net Banking
+INV-IND-00342,DEL,Kolkata,Member,Male,Clothing,13.11,4,2.62,55.06,04-02-2023,19:33:00,Net Banking
+INV-IND-00343,HYD,Bangalore,Normal,Male,Health & Wellness,9.09,1,0.45,9.54,03-03-2023,12:43:00,Cash
+INV-IND-00344,AHM,Delhi,Member,Female,Health & Wellness,68.35,9,30.76,645.91,01-01-2023,13:11:00,Cash
+INV-IND-00345,MUM,Mumbai,Member,Male,Groceries,83.21,4,16.64,349.48,25-01-2023,09:38:00,Credit Card
+INV-IND-00346,AHM,Kolkata,Normal,Female,Home Appliances,79.29,9,35.68,749.29,14-02-2023,11:16:00,Net Banking
+INV-IND-00347,BLR,Ahmedabad,Normal,Female,Home Appliances,56.66,6,17,356.96,18-02-2023,16:01:00,Debit Card
+INV-IND-00348,AHM,Mumbai,Normal,Male,Groceries,14.49,1,0.72,15.21,30-03-2023,11:45:00,UPI
+INV-IND-00349,AHM,Chennai,Normal,Female,Health & Wellness,70.36,3,10.55,221.63,16-01-2023,18:14:00,Credit Card
+INV-IND-00350,AHM,Bangalore,Member,Female,Electronics,27.98,2,2.8,58.76,19-01-2023,18:17:00,Net Banking
+INV-IND-00351,CHE,Delhi,Member,Female,Sports,91.55,9,41.2,865.15,23-01-2023,14:04:00,Cash
+INV-IND-00352,CHE,Kolkata,Normal,Female,Electronics,84.64,1,4.23,88.87,24-03-2023,14:07:00,Net Banking
+INV-IND-00353,KOL,Chennai,Member,Female,Health & Wellness,72.39,9,32.58,684.09,25-01-2023,17:29:00,Debit Card
+INV-IND-00354,KOL,Pune,Member,Female,Books & Stationery,95.14,9,42.81,899.07,16-01-2023,17:49:00,Credit Card
+INV-IND-00355,MUM,Bangalore,Member,Female,Home Appliances,7.99,8,3.2,67.12,23-02-2023,09:14:00,Cash
+INV-IND-00356,HYD,Hyderabad,Normal,Female,Electronics,74.94,8,29.98,629.5,14-03-2023,08:41:00,Debit Card
+INV-IND-00357,DEL,Bangalore,Member,Male,Clothing,36.37,1,1.82,38.19,01-01-2023,15:01:00,UPI
+INV-IND-00358,PUN,Chennai,Normal,Male,Clothing,91.08,8,36.43,765.07,11-02-2023,21:55:00,Credit Card
+INV-IND-00359,HYD,Kolkata,Member,Female,Groceries,30.33,3,4.55,95.54,19-01-2023,11:00:00,Debit Card
+INV-IND-00360,HYD,Bangalore,Member,Male,Health & Wellness,73.86,7,25.85,542.87,03-02-2023,17:04:00,Debit Card
+INV-IND-00361,HYD,Kolkata,Member,Female,Health & Wellness,88.38,1,4.42,92.8,21-03-2023,09:10:00,Cash
+INV-IND-00362,PUN,Ahmedabad,Normal,Female,Electronics,8.96,1,0.45,9.41,24-02-2023,17:27:00,UPI
+INV-IND-00363,MUM,Kolkata,Member,Male,Home Appliances,42.78,5,10.7,224.6,18-01-2023,09:44:00,Debit Card
+INV-IND-00364,PUN,Chennai,Normal,Female,Health & Wellness,77.42,5,19.36,406.46,03-02-2023,11:19:00,Credit Card
+INV-IND-00365,MUM,Delhi,Normal,Female,Electronics,48.22,8,19.29,405.05,30-03-2023,09:40:00,Debit Card
+INV-IND-00366,PUN,Ahmedabad,Normal,Female,Electronics,30.39,7,10.64,223.37,14-02-2023,20:47:00,Net Banking
+INV-IND-00367,DEL,Delhi,Member,Female,Sports,25.88,8,10.35,217.39,06-01-2023,13:06:00,Credit Card
+INV-IND-00368,AHM,Bangalore,Member,Male,Sports,17.49,6,5.25,110.19,21-01-2023,17:45:00,Credit Card
+INV-IND-00369,HYD,Hyderabad,Member,Female,Health & Wellness,86.43,6,25.93,544.51,11-03-2023,19:22:00,Debit Card
+INV-IND-00370,AHM,Pune,Member,Female,Electronics,59.66,2,5.97,125.29,17-02-2023,14:16:00,Cash
+INV-IND-00371,MUM,Chennai,Normal,Female,Groceries,12.26,6,3.68,77.24,08-02-2023,18:54:00,Credit Card
+INV-IND-00372,PUN,Delhi,Normal,Male,Groceries,41.35,5,10.34,217.09,31-01-2023,19:17:00,Net Banking
+INV-IND-00373,DEL,Pune,Normal,Female,Sports,39.93,3,5.99,125.78,10-01-2023,14:38:00,Cash
+INV-IND-00374,PUN,Mumbai,Member,Male,Health & Wellness,22.27,6,6.68,140.3,30-01-2023,20:52:00,Cash
+INV-IND-00375,AHM,Kolkata,Normal,Male,Home Appliances,46.37,8,18.55,389.51,18-01-2023,11:40:00,Cash
+INV-IND-00376,CHE,Delhi,Member,Female,Books & Stationery,36.55,9,16.45,345.4,01-03-2023,17:54:00,Credit Card
+INV-IND-00377,DEL,Ahmedabad,Normal,Female,Groceries,37.47,1,1.87,39.34,29-03-2023,11:01:00,Cash
+INV-IND-00378,HYD,Chennai,Member,Male,Groceries,75.21,3,11.28,236.91,14-03-2023,13:06:00,Debit Card
+INV-IND-00379,BLR,Kolkata,Member,Female,Sports,26.21,3,3.93,82.56,15-01-2023,16:41:00,Cash
+INV-IND-00380,HYD,Pune,Normal,Male,Sports,65.98,8,26.39,554.23,04-01-2023,14:35:00,Net Banking
+INV-IND-00381,BLR,Chennai,Normal,Male,Health & Wellness,59.21,1,2.96,62.17,04-03-2023,08:03:00,UPI
+INV-IND-00382,DEL,Delhi,Normal,Female,Sports,58.97,5,14.74,309.59,09-02-2023,21:23:00,Net Banking
+INV-IND-00383,CHE,Hyderabad,Normal,Female,Clothing,67.99,3,10.2,214.17,09-01-2023,12:40:00,Credit Card
+INV-IND-00384,AHM,Ahmedabad,Member,Male,Books & Stationery,57.1,2,5.71,119.91,09-01-2023,11:34:00,Cash
+INV-IND-00385,CHE,Mumbai,Normal,Male,Electronics,88.53,8,35.41,743.65,26-01-2023,18:09:00,Cash
+INV-IND-00386,MUM,Chennai,Normal,Male,Groceries,69.18,3,10.38,217.92,04-01-2023,14:59:00,Debit Card
+INV-IND-00387,CHE,Hyderabad,Normal,Male,Clothing,56.96,7,19.94,418.66,22-03-2023,09:40:00,Cash
+INV-IND-00388,KOL,Delhi,Member,Female,Home Appliances,83.83,1,4.19,88.02,16-01-2023,16:40:00,Net Banking
+INV-IND-00389,DEL,Ahmedabad,Member,Female,Clothing,62.58,6,18.77,394.25,15-01-2023,17:32:00,Credit Card
+INV-IND-00390,AHM,Kolkata,Normal,Female,Health & Wellness,32.66,3,4.9,102.88,21-02-2023,13:08:00,UPI
+INV-IND-00391,AHM,Pune,Member,Female,Home Appliances,24.67,8,9.87,207.23,10-03-2023,18:57:00,Cash
+INV-IND-00392,MUM,Delhi,Normal,Female,Home Appliances,19.47,6,5.84,122.66,05-01-2023,16:29:00,UPI
+INV-IND-00393,AHM,Bangalore,Member,Male,Sports,90.45,2,9.04,189.94,20-01-2023,09:02:00,Cash
+INV-IND-00394,CHE,Mumbai,Member,Female,Clothing,72.46,6,21.74,456.5,20-03-2023,18:32:00,Credit Card
+INV-IND-00395,DEL,Mumbai,Member,Female,Health & Wellness,94.05,7,32.92,691.27,18-01-2023,11:45:00,Net Banking
+INV-IND-00396,HYD,Kolkata,Member,Female,Groceries,62.31,5,15.58,327.13,02-01-2023,09:44:00,Credit Card
+INV-IND-00397,CHE,Ahmedabad,Normal,Female,Books & Stationery,49.97,3,7.5,157.41,13-01-2023,20:51:00,UPI
+INV-IND-00398,PUN,Delhi,Normal,Female,Sports,10.67,4,2.13,44.81,04-01-2023,15:04:00,Cash
+INV-IND-00399,BLR,Delhi,Normal,Male,Clothing,68.81,4,13.76,289,11-02-2023,12:14:00,UPI
+INV-IND-00400,DEL,Hyderabad,Member,Male,Groceries,60.31,6,18.09,379.95,15-03-2023,15:08:00,Net Banking
+INV-IND-00401,AHM,Bangalore,Normal,Male,Clothing,99.07,1,4.95,104.02,02-03-2023,15:13:00,Credit Card
+INV-IND-00402,MUM,Pune,Normal,Female,Sports,27.72,4,5.54,116.42,08-01-2023,11:26:00,UPI
+INV-IND-00403,HYD,Ahmedabad,Normal,Male,Groceries,55.42,4,11.08,232.76,08-03-2023,08:27:00,UPI
+INV-IND-00404,KOL,Chennai,Member,Male,Sports,66.84,1,3.34,70.18,04-03-2023,19:21:00,Net Banking
+INV-IND-00405,HYD,Pune,Member,Female,Clothing,66.24,9,29.81,625.97,09-01-2023,13:35:00,Cash
+INV-IND-00406,CHE,Bangalore,Member,Female,Home Appliances,58.32,4,11.66,244.94,11-01-2023,17:47:00,UPI
+INV-IND-00407,BLR,Pune,Normal,Female,Books & Stationery,78.81,7,27.58,579.25,11-02-2023,18:27:00,Net Banking
+INV-IND-00408,HYD,Delhi,Normal,Male,Electronics,24.47,3,3.67,77.08,13-01-2023,09:08:00,Cash
+INV-IND-00409,KOL,Ahmedabad,Normal,Male,Books & Stationery,73.93,3,11.09,232.88,05-02-2023,20:25:00,Cash
+INV-IND-00410,PUN,Pune,Member,Female,Home Appliances,63.87,8,25.55,536.51,13-01-2023,16:32:00,Credit Card
+INV-IND-00411,MUM,Kolkata,Member,Female,Sports,90.13,8,36.05,757.09,12-01-2023,10:46:00,Net Banking
+INV-IND-00412,DEL,Mumbai,Normal,Male,Books & Stationery,85.48,1,4.27,89.75,06-02-2023,20:09:00,Cash
+INV-IND-00413,BLR,Chennai,Member,Male,Sports,34.94,2,3.49,73.37,15-03-2023,21:04:00,Credit Card
+INV-IND-00414,KOL,Hyderabad,Member,Female,Sports,31.24,8,12.5,262.42,14-03-2023,14:07:00,Debit Card
+INV-IND-00415,AHM,Ahmedabad,Member,Female,Groceries,98.26,1,4.91,103.17,21-02-2023,12:10:00,Net Banking
+INV-IND-00416,CHE,Ahmedabad,Member,Male,Health & Wellness,55.09,8,22.04,462.76,12-03-2023,19:25:00,Debit Card
+INV-IND-00417,CHE,Hyderabad,Normal,Female,Sports,91.11,8,36.44,765.32,02-01-2023,10:49:00,Cash
+INV-IND-00418,CHE,Chennai,Member,Male,Books & Stationery,20.57,2,2.06,43.2,25-02-2023,20:37:00,Net Banking
+INV-IND-00419,AHM,Delhi,Member,Male,Books & Stationery,66.07,4,13.21,277.49,01-03-2023,09:29:00,Credit Card
+INV-IND-00420,AHM,Chennai,Member,Male,Books & Stationery,81.94,6,24.58,516.22,23-01-2023,17:20:00,Cash
+INV-IND-00421,BLR,Chennai,Member,Male,Home Appliances,95,9,42.75,897.75,09-02-2023,15:25:00,Net Banking
+INV-IND-00422,HYD,Mumbai,Normal,Female,Electronics,37.05,8,14.82,311.22,05-03-2023,12:53:00,Net Banking
+INV-IND-00423,BLR,Pune,Normal,Female,Sports,73.87,8,29.55,620.51,26-03-2023,10:29:00,Debit Card
+INV-IND-00424,CHE,Kolkata,Member,Male,Sports,56.19,7,19.67,413,23-01-2023,10:11:00,Cash
+INV-IND-00425,PUN,Hyderabad,Member,Male,Sports,10.76,9,4.84,101.68,29-01-2023,15:12:00,Credit Card
+INV-IND-00426,KOL,Delhi,Member,Male,Groceries,70.55,2,7.06,148.16,19-03-2023,08:58:00,Credit Card
+INV-IND-00427,DEL,Ahmedabad,Member,Male,Sports,70.56,3,10.58,222.26,31-03-2023,21:55:00,Cash
+INV-IND-00428,DEL,Delhi,Member,Male,Home Appliances,93.41,8,37.36,784.64,20-02-2023,11:18:00,Cash
+INV-IND-00429,BLR,Hyderabad,Member,Female,Clothing,52.24,6,15.67,329.11,10-03-2023,11:34:00,UPI
+INV-IND-00430,CHE,Mumbai,Normal,Female,Health & Wellness,26.87,9,12.09,253.92,30-03-2023,17:20:00,Debit Card
+INV-IND-00431,AHM,Mumbai,Member,Female,Books & Stationery,9.23,4,1.85,38.77,31-01-2023,15:51:00,Cash
+INV-IND-00432,MUM,Chennai,Normal,Female,Sports,44.49,8,17.8,373.72,19-02-2023,20:23:00,Cash
+INV-IND-00433,PUN,Hyderabad,Normal,Male,Groceries,33.68,3,5.05,106.09,20-01-2023,12:06:00,UPI
+INV-IND-00434,BLR,Bangalore,Member,Male,Home Appliances,77.3,3,11.6,243.5,24-02-2023,14:21:00,UPI
+INV-IND-00435,CHE,Hyderabad,Normal,Male,Sports,38.66,8,15.46,324.74,22-03-2023,11:58:00,Net Banking
+INV-IND-00436,HYD,Delhi,Normal,Male,Groceries,95.16,5,23.79,499.59,02-01-2023,14:06:00,Credit Card
+INV-IND-00437,DEL,Hyderabad,Normal,Male,Clothing,96.42,3,14.46,303.72,25-01-2023,10:47:00,Debit Card
+INV-IND-00438,DEL,Hyderabad,Normal,Female,Electronics,63.99,1,3.2,67.19,13-01-2023,17:19:00,Net Banking
+INV-IND-00439,PUN,Hyderabad,Normal,Male,Sports,93.22,3,13.98,293.64,11-03-2023,08:50:00,Cash
+INV-IND-00440,DEL,Chennai,Normal,Female,Home Appliances,77.28,9,34.78,730.3,08-03-2023,21:30:00,UPI
+INV-IND-00441,MUM,Bangalore,Member,Female,Groceries,56.95,5,14.24,298.99,27-02-2023,18:09:00,Credit Card
+INV-IND-00442,CHE,Mumbai,Normal,Female,Groceries,22.13,2,2.21,46.47,23-03-2023,20:07:00,Net Banking
+INV-IND-00443,CHE,Kolkata,Normal,Female,Sports,48.57,7,17,356.99,16-03-2023,19:28:00,Credit Card
+INV-IND-00444,PUN,Bangalore,Normal,Male,Groceries,58.28,2,5.83,122.39,25-03-2023,14:19:00,UPI
+INV-IND-00445,CHE,Bangalore,Member,Female,Electronics,87.08,4,17.42,365.74,05-03-2023,15:53:00,Net Banking
+INV-IND-00446,AHM,Kolkata,Normal,Female,Groceries,50.73,7,17.76,372.87,10-03-2023,09:19:00,Net Banking
+INV-IND-00447,PUN,Bangalore,Member,Female,Books & Stationery,90.28,4,18.06,379.18,24-03-2023,19:36:00,Credit Card
+INV-IND-00448,CHE,Delhi,Normal,Male,Health & Wellness,69.06,7,24.17,507.59,27-03-2023,14:06:00,UPI
+INV-IND-00449,MUM,Mumbai,Member,Male,Books & Stationery,18.01,7,6.3,132.37,28-02-2023,15:40:00,Cash
+INV-IND-00450,KOL,Bangalore,Member,Male,Health & Wellness,99.52,1,4.98,104.5,01-03-2023,16:58:00,Net Banking
+INV-IND-00451,BLR,Mumbai,Normal,Female,Groceries,55.09,6,16.53,347.07,24-03-2023,15:31:00,Cash
+INV-IND-00452,BLR,Chennai,Normal,Female,Sports,42.23,9,19,399.07,03-03-2023,15:43:00,UPI
+INV-IND-00453,CHE,Hyderabad,Member,Male,Health & Wellness,67.62,2,6.76,142,16-01-2023,15:57:00,Net Banking
+INV-IND-00454,HYD,Chennai,Normal,Female,Home Appliances,15.34,3,2.3,48.32,29-03-2023,14:59:00,Net Banking
+INV-IND-00455,DEL,Mumbai,Member,Male,Health & Wellness,65.47,5,16.37,343.72,09-03-2023,19:46:00,Cash
+INV-IND-00456,MUM,Bangalore,Member,Male,Books & Stationery,52.33,9,23.55,494.52,15-01-2023,11:33:00,Debit Card
+INV-IND-00457,HYD,Kolkata,Member,Female,Groceries,43.63,4,8.73,183.25,30-03-2023,14:08:00,Cash
+INV-IND-00458,AHM,Mumbai,Member,Female,Sports,95.54,1,4.78,100.32,24-02-2023,09:53:00,Cash
+INV-IND-00459,HYD,Bangalore,Member,Female,Clothing,54.64,4,10.93,229.49,04-02-2023,20:33:00,Debit Card
+INV-IND-00460,CHE,Pune,Normal,Female,Sports,25.82,6,7.75,162.67,24-02-2023,16:22:00,UPI
+INV-IND-00461,MUM,Delhi,Member,Male,Sports,48.6,5,12.15,255.15,14-01-2023,18:35:00,UPI
+INV-IND-00462,BLR,Delhi,Member,Male,Sports,92.34,1,4.62,96.96,18-02-2023,21:36:00,Net Banking
+INV-IND-00463,DEL,Ahmedabad,Normal,Male,Home Appliances,21.73,4,4.35,91.27,24-03-2023,17:47:00,Credit Card
+INV-IND-00464,BLR,Ahmedabad,Member,Male,Electronics,25.33,6,7.6,159.58,07-01-2023,13:10:00,Credit Card
+INV-IND-00465,HYD,Chennai,Normal,Male,Books & Stationery,6.24,4,1.25,26.21,30-01-2023,15:48:00,Net Banking
+INV-IND-00466,AHM,Delhi,Normal,Female,Groceries,6.35,9,2.86,60.01,24-03-2023,21:43:00,Credit Card
+INV-IND-00467,DEL,Ahmedabad,Normal,Male,Electronics,83.79,5,20.95,439.9,18-02-2023,19:47:00,Cash
+INV-IND-00468,KOL,Hyderabad,Member,Male,Clothing,74.55,8,29.82,626.22,30-03-2023,08:43:00,Cash
+INV-IND-00469,HYD,Mumbai,Member,Male,Electronics,38.73,9,17.43,366,16-01-2023,14:54:00,Debit Card
+INV-IND-00470,BLR,Kolkata,Member,Female,Groceries,71.34,5,17.84,374.54,20-02-2023,19:37:00,Debit Card
+INV-IND-00471,BLR,Ahmedabad,Normal,Female,Books & Stationery,42.54,6,12.76,268,13-03-2023,12:05:00,Net Banking
+INV-IND-00472,CHE,Mumbai,Member,Female,Books & Stationery,95.53,1,4.78,100.31,23-03-2023,09:23:00,Net Banking
+INV-IND-00473,BLR,Mumbai,Normal,Female,Groceries,96.87,7,33.9,711.99,21-03-2023,11:26:00,Net Banking
+INV-IND-00474,MUM,Ahmedabad,Member,Male,Clothing,42.32,4,8.46,177.74,24-03-2023,10:30:00,Cash
+INV-IND-00475,HYD,Pune,Normal,Male,Groceries,86.15,2,8.62,180.92,11-02-2023,19:07:00,Credit Card
+INV-IND-00476,PUN,Pune,Member,Female,Clothing,78.44,5,19.61,411.81,17-01-2023,16:47:00,Net Banking
+INV-IND-00477,PUN,Delhi,Member,Female,Clothing,34.45,3,5.17,108.52,04-03-2023,10:44:00,Net Banking
+INV-IND-00478,AHM,Ahmedabad,Member,Male,Groceries,27.04,6,8.11,170.35,14-02-2023,10:24:00,Cash
+INV-IND-00479,DEL,Ahmedabad,Normal,Male,Health & Wellness,48.53,8,19.41,407.65,18-03-2023,08:36:00,Cash
+INV-IND-00480,BLR,Delhi,Normal,Female,Books & Stationery,79.23,7,27.73,582.34,07-01-2023,13:32:00,Cash
+INV-IND-00481,CHE,Delhi,Member,Female,Clothing,96.22,3,14.43,303.09,27-01-2023,14:42:00,Credit Card
+INV-IND-00482,CHE,Chennai,Member,Female,Groceries,77.54,8,31.02,651.34,10-01-2023,14:53:00,Net Banking
+INV-IND-00483,BLR,Bangalore,Normal,Female,Health & Wellness,86.24,2,8.62,181.1,03-02-2023,08:44:00,UPI
+INV-IND-00484,MUM,Delhi,Normal,Male,Books & Stationery,62.29,9,28.03,588.64,05-02-2023,14:41:00,UPI
+INV-IND-00485,CHE,Bangalore,Normal,Male,Clothing,84.36,4,16.87,354.31,25-01-2023,11:25:00,Net Banking
+INV-IND-00486,PUN,Kolkata,Member,Male,Books & Stationery,79.52,1,3.98,83.5,06-01-2023,09:01:00,Net Banking
+INV-IND-00487,DEL,Chennai,Normal,Female,Health & Wellness,40.81,8,16.32,342.8,24-01-2023,14:59:00,Net Banking
+INV-IND-00488,HYD,Pune,Member,Female,Books & Stationery,57.44,7,20.1,422.18,18-01-2023,15:47:00,Net Banking
+INV-IND-00489,KOL,Kolkata,Normal,Male,Home Appliances,81.45,5,20.36,427.61,28-03-2023,21:39:00,Credit Card
+INV-IND-00490,MUM,Ahmedabad,Member,Male,Sports,9.38,5,2.35,49.25,06-01-2023,08:18:00,UPI
+INV-IND-00491,AHM,Pune,Normal,Male,Home Appliances,81.77,7,28.62,601.01,29-01-2023,14:04:00,Debit Card
+INV-IND-00492,AHM,Delhi,Normal,Male,Health & Wellness,21.9,5,5.48,114.98,25-01-2023,12:59:00,UPI
+INV-IND-00493,CHE,Delhi,Normal,Female,Clothing,53.89,8,21.56,452.68,24-02-2023,08:06:00,UPI
+INV-IND-00494,HYD,Hyderabad,Normal,Male,Groceries,81.79,6,24.54,515.28,22-03-2023,20:40:00,Cash
+INV-IND-00495,KOL,Pune,Normal,Male,Electronics,29.11,5,7.28,152.83,15-02-2023,15:07:00,Net Banking
+INV-IND-00496,AHM,Ahmedabad,Member,Male,Groceries,28.35,9,12.76,267.91,24-01-2023,09:56:00,Net Banking
+INV-IND-00497,BLR,Hyderabad,Normal,Male,Books & Stationery,43.26,2,4.33,90.85,16-03-2023,17:39:00,Net Banking
+INV-IND-00498,BLR,Pune,Normal,Male,Electronics,89.99,1,4.5,94.49,26-01-2023,16:26:00,Cash
+INV-IND-00499,DEL,Chennai,Normal,Male,Electronics,5.04,8,2.02,42.34,28-01-2023,17:05:00,Credit Card
+INV-IND-00500,KOL,Ahmedabad,Member,Male,Books & Stationery,90.63,3,13.59,285.48,03-01-2023,19:45:00,Credit Card
+INV-IND-00501,BLR,Pune,Normal,Female,Books & Stationery,19.61,7,6.86,144.13,16-03-2023,13:24:00,Debit Card
+INV-IND-00502,AHM,Pune,Member,Female,Clothing,99.06,8,39.62,832.1,07-02-2023,08:54:00,Credit Card
+INV-IND-00503,BLR,Delhi,Normal,Female,Health & Wellness,95.71,6,28.71,602.97,02-03-2023,20:57:00,Credit Card
+INV-IND-00504,PUN,Chennai,Normal,Female,Groceries,51.99,9,23.4,491.31,19-03-2023,08:41:00,Net Banking
+INV-IND-00505,CHE,Pune,Member,Male,Health & Wellness,53.71,7,18.8,394.77,20-02-2023,12:56:00,UPI
+INV-IND-00506,AHM,Chennai,Normal,Female,Home Appliances,50.75,5,12.69,266.44,31-03-2023,11:50:00,Credit Card
+INV-IND-00507,AHM,Kolkata,Member,Female,Clothing,65.37,8,26.15,549.11,17-02-2023,15:32:00,Credit Card
+INV-IND-00508,AHM,Chennai,Member,Male,Clothing,13.62,2,1.36,28.6,21-01-2023,14:33:00,Cash
+INV-IND-00509,DEL,Bangalore,Normal,Male,Home Appliances,8.1,7,2.84,59.54,23-02-2023,16:41:00,Debit Card
+INV-IND-00510,HYD,Ahmedabad,Member,Female,Groceries,10.48,4,2.1,44.02,25-02-2023,13:57:00,Cash
+INV-IND-00511,AHM,Delhi,Normal,Female,Sports,47.21,9,21.24,446.13,28-02-2023,15:23:00,Net Banking
+INV-IND-00512,BLR,Delhi,Normal,Male,Home Appliances,31.18,1,1.56,32.74,13-03-2023,10:07:00,UPI
+INV-IND-00513,PUN,Delhi,Member,Female,Groceries,64.09,7,22.43,471.06,20-02-2023,19:30:00,Debit Card
+INV-IND-00514,AHM,Delhi,Member,Male,Electronics,99.28,6,29.78,625.46,20-01-2023,14:44:00,Cash
+INV-IND-00515,MUM,Pune,Member,Male,Books & Stationery,41.7,8,16.68,350.28,27-03-2023,14:31:00,Credit Card
+INV-IND-00516,MUM,Delhi,Member,Male,Clothing,59.51,5,14.88,312.43,28-02-2023,11:12:00,Credit Card
+INV-IND-00517,HYD,Chennai,Normal,Male,Groceries,44.48,1,2.22,46.7,12-03-2023,18:03:00,Debit Card
+INV-IND-00518,KOL,Bangalore,Normal,Female,Health & Wellness,85.49,1,4.27,89.76,09-01-2023,20:22:00,Credit Card
+INV-IND-00519,DEL,Mumbai,Member,Male,Books & Stationery,90.71,9,40.82,857.21,01-01-2023,09:17:00,Cash
+INV-IND-00520,PUN,Chennai,Normal,Male,Health & Wellness,88.35,6,26.5,556.6,29-01-2023,09:24:00,Cash
+INV-IND-00521,CHE,Delhi,Normal,Female,Books & Stationery,97.57,5,24.39,512.24,04-03-2023,08:29:00,Credit Card
+INV-IND-00522,PUN,Pune,Normal,Male,Clothing,7.61,1,0.38,7.99,13-03-2023,20:04:00,Credit Card
+INV-IND-00523,MUM,Chennai,Normal,Female,Home Appliances,84.78,6,25.43,534.11,25-02-2023,08:48:00,Net Banking
+INV-IND-00524,MUM,Pune,Member,Female,Sports,76.42,6,22.93,481.45,09-03-2023,20:56:00,UPI
+INV-IND-00525,HYD,Mumbai,Member,Female,Home Appliances,26.73,3,4.01,84.2,04-02-2023,10:24:00,Debit Card
+INV-IND-00526,KOL,Kolkata,Normal,Male,Groceries,95.85,8,38.34,805.14,03-01-2023,09:08:00,Cash
+INV-IND-00527,KOL,Kolkata,Member,Female,Home Appliances,19.08,1,0.95,20.03,07-01-2023,08:57:00,Debit Card
+INV-IND-00528,HYD,Chennai,Member,Female,Clothing,69.56,1,3.48,73.04,27-01-2023,19:36:00,Net Banking
+INV-IND-00529,AHM,Delhi,Member,Male,Groceries,26.36,6,7.91,166.07,01-01-2023,17:33:00,Cash
+INV-IND-00530,PUN,Hyderabad,Normal,Female,Electronics,45.98,1,2.3,48.28,21-03-2023,15:58:00,Net Banking
+INV-IND-00531,MUM,Bangalore,Normal,Female,Home Appliances,73.32,6,22,461.92,12-03-2023,21:39:00,Net Banking
+INV-IND-00532,PUN,Ahmedabad,Normal,Female,Home Appliances,58.52,1,2.93,61.45,13-02-2023,15:24:00,Credit Card
+INV-IND-00533,PUN,Hyderabad,Member,Female,Sports,45.61,6,13.68,287.34,28-03-2023,12:55:00,Debit Card
+INV-IND-00534,DEL,Delhi,Normal,Female,Groceries,36,3,5.4,113.4,10-02-2023,19:17:00,Debit Card
+INV-IND-00535,MUM,Chennai,Normal,Male,Health & Wellness,84.77,8,33.91,712.07,16-03-2023,10:50:00,Credit Card
+INV-IND-00536,KOL,Chennai,Member,Female,Home Appliances,18.66,6,5.6,117.56,11-02-2023,17:34:00,Debit Card
+INV-IND-00537,CHE,Delhi,Normal,Female,Clothing,45.86,1,2.29,48.15,02-02-2023,10:26:00,Credit Card
+INV-IND-00538,PUN,Kolkata,Normal,Male,Home Appliances,90.86,5,22.72,477.02,19-02-2023,16:03:00,Cash
+INV-IND-00539,MUM,Hyderabad,Member,Male,Sports,85.36,8,34.14,717.02,04-03-2023,13:05:00,Net Banking
+INV-IND-00540,PUN,Pune,Member,Male,Electronics,43.09,3,6.46,135.73,06-02-2023,19:12:00,Net Banking
+INV-IND-00541,DEL,Mumbai,Member,Female,Sports,77.5,6,23.25,488.25,28-02-2023,18:52:00,Debit Card
+INV-IND-00542,AHM,Kolkata,Normal,Male,Home Appliances,83.2,5,20.8,436.8,22-03-2023,18:08:00,UPI
+INV-IND-00543,BLR,Mumbai,Normal,Female,Health & Wellness,89.44,6,26.83,563.47,17-02-2023,15:25:00,Net Banking
+INV-IND-00544,MUM,Bangalore,Normal,Female,Books & Stationery,56.73,1,2.84,59.57,05-01-2023,11:40:00,Credit Card
+INV-IND-00545,HYD,Kolkata,Member,Male,Home Appliances,24.42,7,8.55,179.49,17-02-2023,17:14:00,UPI
+INV-IND-00546,BLR,Kolkata,Member,Male,Groceries,29.25,9,13.16,276.41,03-01-2023,21:23:00,UPI
+INV-IND-00547,PUN,Chennai,Normal,Female,Home Appliances,33.09,2,3.31,69.49,16-02-2023,14:17:00,Net Banking
+INV-IND-00548,HYD,Chennai,Normal,Male,Health & Wellness,61.41,5,15.35,322.4,03-03-2023,18:19:00,Net Banking
+INV-IND-00549,HYD,Mumbai,Member,Female,Groceries,8.12,4,1.62,34.1,14-01-2023,12:25:00,Net Banking
+INV-IND-00550,HYD,Bangalore,Member,Male,Clothing,65.42,6,19.63,412.15,04-03-2023,09:34:00,Credit Card
+INV-IND-00551,MUM,Bangalore,Member,Male,Groceries,39.61,6,11.88,249.54,02-03-2023,12:21:00,UPI
+INV-IND-00552,KOL,Pune,Member,Male,Sports,33.05,2,3.3,69.4,31-01-2023,21:44:00,Debit Card
+INV-IND-00553,PUN,Delhi,Normal,Female,Electronics,88.55,2,8.86,185.96,17-01-2023,09:10:00,Credit Card
+INV-IND-00554,BLR,Bangalore,Member,Male,Sports,48.7,4,9.74,204.54,24-01-2023,11:38:00,Cash
+INV-IND-00555,DEL,Mumbai,Normal,Female,Books & Stationery,14.03,1,0.7,14.73,23-01-2023,16:52:00,Net Banking
+INV-IND-00556,KOL,Delhi,Normal,Female,Groceries,83.54,9,37.59,789.45,23-03-2023,09:31:00,UPI
+INV-IND-00557,PUN,Hyderabad,Normal,Female,Clothing,9.53,7,3.34,70.05,19-02-2023,10:06:00,Credit Card
+INV-IND-00558,AHM,Pune,Member,Female,Home Appliances,74.04,7,25.91,544.19,19-03-2023,09:19:00,Cash
+INV-IND-00559,AHM,Pune,Member,Male,Groceries,78.52,3,11.78,247.34,20-03-2023,21:43:00,Credit Card
+INV-IND-00560,MUM,Ahmedabad,Member,Female,Sports,38.5,3,5.78,121.28,20-03-2023,11:57:00,Credit Card
+INV-IND-00561,HYD,Chennai,Member,Female,Groceries,83.35,1,4.17,87.52,11-03-2023,14:11:00,Debit Card
+INV-IND-00562,DEL,Bangalore,Normal,Male,Groceries,53.99,3,8.1,170.07,27-01-2023,16:05:00,Debit Card
+INV-IND-00563,PUN,Chennai,Member,Female,Groceries,49.01,3,7.35,154.38,15-01-2023,19:33:00,Credit Card
+INV-IND-00564,BLR,Kolkata,Member,Male,Clothing,9.31,4,1.86,39.1,19-02-2023,08:24:00,Cash
+INV-IND-00565,PUN,Chennai,Normal,Female,Health & Wellness,32.55,4,6.51,136.71,05-02-2023,10:35:00,UPI
+INV-IND-00566,KOL,Delhi,Member,Male,Health & Wellness,93.45,3,14.02,294.37,08-01-2023,16:36:00,UPI
+INV-IND-00567,AHM,Mumbai,Normal,Female,Groceries,42.22,8,16.89,354.65,20-03-2023,18:31:00,Net Banking
+INV-IND-00568,CHE,Bangalore,Normal,Male,Clothing,56.94,8,22.78,478.3,03-01-2023,21:08:00,Net Banking
+INV-IND-00569,KOL,Bangalore,Normal,Female,Clothing,55.54,1,2.78,58.32,03-03-2023,16:49:00,UPI
+INV-IND-00570,PUN,Mumbai,Normal,Female,Books & Stationery,61.09,7,21.38,449.01,16-02-2023,19:49:00,Credit Card
+INV-IND-00571,DEL,Delhi,Normal,Male,Groceries,10.83,2,1.08,22.74,18-03-2023,08:56:00,Credit Card
+INV-IND-00572,PUN,Kolkata,Normal,Male,Sports,39.41,1,1.97,41.38,29-03-2023,18:04:00,Debit Card
+INV-IND-00573,PUN,Ahmedabad,Normal,Male,Sports,73.7,3,11.06,232.16,02-03-2023,08:18:00,Debit Card
+INV-IND-00574,MUM,Pune,Normal,Male,Electronics,24.05,4,4.81,101.01,01-02-2023,14:23:00,Net Banking
+INV-IND-00575,BLR,Ahmedabad,Member,Female,Groceries,24.34,6,7.3,153.34,13-01-2023,11:12:00,UPI
+INV-IND-00576,DEL,Ahmedabad,Member,Female,Electronics,5.96,5,1.49,31.29,01-01-2023,11:56:00,Credit Card
+INV-IND-00577,PUN,Pune,Member,Male,Sports,46.56,4,9.31,195.55,03-02-2023,14:26:00,UPI
+INV-IND-00578,HYD,Kolkata,Member,Female,Sports,88.86,8,35.54,746.42,03-03-2023,15:05:00,Cash
+INV-IND-00579,BLR,Hyderabad,Normal,Male,Groceries,9.93,4,1.99,41.71,20-03-2023,12:36:00,UPI
+INV-IND-00580,KOL,Delhi,Member,Male,Electronics,23.16,2,2.32,48.64,19-03-2023,11:46:00,Cash
+INV-IND-00581,DEL,Chennai,Normal,Female,Electronics,34.46,3,5.17,108.55,23-03-2023,20:24:00,Debit Card
+INV-IND-00582,KOL,Pune,Member,Female,Groceries,74.51,6,22.35,469.41,12-03-2023,17:11:00,Debit Card
+INV-IND-00583,AHM,Delhi,Member,Female,Books & Stationery,65.86,8,26.34,553.22,31-01-2023,13:22:00,Net Banking
+INV-IND-00584,PUN,Kolkata,Member,Female,Electronics,44.51,8,17.8,373.88,05-03-2023,10:32:00,UPI
+INV-IND-00585,KOL,Ahmedabad,Normal,Female,Books & Stationery,77.11,9,34.7,728.69,25-01-2023,18:38:00,UPI
+INV-IND-00586,KOL,Kolkata,Member,Female,Home Appliances,62.91,7,22.02,462.39,07-02-2023,11:56:00,Cash
+INV-IND-00587,MUM,Mumbai,Normal,Female,Sports,90.12,2,9.01,189.25,14-01-2023,08:54:00,Debit Card
+INV-IND-00588,KOL,Hyderabad,Normal,Male,Health & Wellness,82.71,8,33.08,694.76,08-01-2023,15:15:00,Cash
+INV-IND-00589,HYD,Pune,Member,Male,Books & Stationery,29.02,7,10.16,213.3,23-02-2023,19:23:00,Debit Card
+INV-IND-00590,HYD,Mumbai,Member,Male,Books & Stationery,30.79,8,12.32,258.64,02-01-2023,09:48:00,Cash
+INV-IND-00591,BLR,Mumbai,Member,Male,Books & Stationery,16.91,3,2.54,53.27,22-03-2023,11:03:00,Debit Card
+INV-IND-00592,PUN,Hyderabad,Normal,Male,Clothing,37.01,7,12.95,272.02,19-03-2023,14:07:00,Cash
+INV-IND-00593,CHE,Kolkata,Member,Female,Electronics,99.96,9,44.98,944.62,30-03-2023,11:17:00,Debit Card
+INV-IND-00594,AHM,Hyderabad,Normal,Male,Electronics,43.55,3,6.53,137.18,25-02-2023,14:10:00,Cash
+INV-IND-00595,KOL,Bangalore,Normal,Male,Clothing,25.95,6,7.78,163.48,25-03-2023,14:12:00,UPI
+INV-IND-00596,KOL,Kolkata,Member,Male,Electronics,77.44,2,7.74,162.62,26-03-2023,16:16:00,Net Banking
+INV-IND-00597,DEL,Kolkata,Member,Male,Clothing,56.53,2,5.65,118.71,02-03-2023,17:58:00,Cash
+INV-IND-00598,MUM,Chennai,Normal,Male,Books & Stationery,19.21,5,4.8,100.85,22-01-2023,11:20:00,Net Banking
+INV-IND-00599,CHE,Delhi,Normal,Male,Groceries,41.17,5,10.29,216.14,04-02-2023,16:28:00,UPI
+INV-IND-00600,BLR,Mumbai,Normal,Male,Home Appliances,44.37,7,15.53,326.12,16-01-2023,13:21:00,UPI
+INV-IND-00601,AHM,Ahmedabad,Member,Female,Books & Stationery,76.61,2,7.66,160.88,19-02-2023,12:34:00,Debit Card
+INV-IND-00602,CHE,Pune,Normal,Female,Home Appliances,6.96,7,2.44,51.16,12-02-2023,11:30:00,Net Banking
+INV-IND-00603,KOL,Bangalore,Member,Male,Sports,30.56,5,7.64,160.44,17-01-2023,16:23:00,Credit Card
+INV-IND-00604,DEL,Bangalore,Normal,Female,Books & Stationery,54.17,6,16.25,341.27,21-03-2023,09:57:00,Debit Card
+INV-IND-00605,PUN,Pune,Normal,Female,Health & Wellness,30.54,8,12.22,256.54,27-02-2023,19:42:00,Net Banking
+INV-IND-00606,MUM,Hyderabad,Member,Female,Electronics,64.7,4,12.94,271.74,02-01-2023,17:13:00,Cash
+INV-IND-00607,PUN,Chennai,Normal,Female,Health & Wellness,50.78,7,17.77,373.23,04-01-2023,08:41:00,Cash
+INV-IND-00608,BLR,Delhi,Member,Male,Groceries,39.36,6,11.81,247.97,26-03-2023,13:14:00,UPI
+INV-IND-00609,CHE,Pune,Member,Female,Home Appliances,95.17,2,9.52,199.86,08-02-2023,21:07:00,Credit Card
+INV-IND-00610,BLR,Mumbai,Normal,Female,Books & Stationery,65.06,8,26.02,546.5,06-01-2023,13:28:00,Cash
+INV-IND-00611,KOL,Pune,Member,Female,Groceries,17.34,9,7.8,163.86,22-03-2023,08:16:00,Net Banking
+INV-IND-00612,BLR,Mumbai,Member,Male,Groceries,58.21,5,14.55,305.6,30-03-2023,12:42:00,Net Banking
+INV-IND-00613,PUN,Ahmedabad,Normal,Male,Electronics,79.17,4,15.83,332.51,10-03-2023,12:17:00,Cash
+INV-IND-00614,DEL,Delhi,Member,Male,Groceries,72.31,6,21.69,455.55,10-03-2023,17:34:00,Net Banking
+INV-IND-00615,BLR,Chennai,Member,Male,Books & Stationery,21.35,8,8.54,179.34,20-01-2023,17:33:00,Net Banking
+INV-IND-00616,HYD,Pune,Member,Male,Books & Stationery,97.38,3,14.61,306.75,05-03-2023,18:11:00,UPI
+INV-IND-00617,DEL,Pune,Normal,Male,Home Appliances,47.64,1,2.38,50.02,16-01-2023,08:18:00,Credit Card
+INV-IND-00618,CHE,Pune,Member,Male,Books & Stationery,20.11,4,4.02,84.46,20-02-2023,16:48:00,UPI
+INV-IND-00619,MUM,Kolkata,Normal,Female,Health & Wellness,22.12,4,4.42,92.9,06-02-2023,21:56:00,Credit Card
+INV-IND-00620,MUM,Delhi,Normal,Female,Home Appliances,14.33,1,0.72,15.05,14-03-2023,15:02:00,Net Banking
+INV-IND-00621,KOL,Pune,Member,Female,Electronics,81.33,9,36.6,768.57,10-03-2023,15:45:00,Credit Card
+INV-IND-00622,KOL,Mumbai,Member,Male,Home Appliances,16.59,3,2.49,52.26,11-02-2023,14:12:00,Net Banking
+INV-IND-00623,HYD,Chennai,Member,Male,Clothing,16.89,5,4.22,88.67,26-02-2023,20:37:00,Net Banking
+INV-IND-00624,CHE,Bangalore,Normal,Male,Health & Wellness,85.79,6,25.74,540.48,07-03-2023,20:42:00,UPI
+INV-IND-00625,PUN,Ahmedabad,Member,Male,Clothing,37.74,8,15.1,317.02,09-01-2023,09:20:00,UPI
+INV-IND-00626,MUM,Chennai,Member,Male,Clothing,7.93,6,2.38,49.96,27-03-2023,17:10:00,Debit Card
+INV-IND-00627,MUM,Delhi,Member,Female,Sports,9.93,3,1.49,31.28,05-03-2023,17:07:00,Cash
+INV-IND-00628,MUM,Pune,Member,Female,Books & Stationery,18.51,6,5.55,116.61,27-03-2023,15:03:00,Debit Card
+INV-IND-00629,PUN,Delhi,Member,Male,Electronics,25.27,1,1.26,26.53,22-01-2023,15:08:00,Debit Card
+INV-IND-00630,MUM,Hyderabad,Normal,Male,Groceries,68.19,4,13.64,286.4,03-02-2023,14:27:00,Credit Card
+INV-IND-00631,BLR,Pune,Normal,Male,Clothing,19.95,6,5.98,125.68,24-02-2023,19:48:00,Net Banking
+INV-IND-00632,CHE,Pune,Member,Male,Home Appliances,16.29,7,5.7,119.73,29-01-2023,19:09:00,Net Banking
+INV-IND-00633,DEL,Delhi,Member,Female,Groceries,77.65,3,11.65,244.6,07-02-2023,11:23:00,Net Banking
+INV-IND-00634,DEL,Pune,Member,Male,Home Appliances,68.75,9,30.94,649.69,18-01-2023,11:15:00,Cash
+INV-IND-00635,HYD,Kolkata,Member,Male,Home Appliances,46.36,7,16.23,340.75,12-03-2023,20:07:00,Credit Card
+INV-IND-00636,BLR,Chennai,Normal,Male,Groceries,57.18,1,2.86,60.04,06-03-2023,12:44:00,Credit Card
+INV-IND-00637,MUM,Hyderabad,Member,Male,Groceries,34.64,2,3.46,72.74,01-01-2023,11:15:00,Net Banking
+INV-IND-00638,MUM,Chennai,Normal,Female,Books & Stationery,50.84,1,2.54,53.38,29-03-2023,13:06:00,Debit Card
+INV-IND-00639,KOL,Bangalore,Normal,Male,Home Appliances,53.13,9,23.91,502.08,04-01-2023,19:03:00,Cash
+INV-IND-00640,KOL,Delhi,Member,Male,Electronics,41.79,9,18.81,394.92,04-01-2023,08:13:00,Debit Card
+INV-IND-00641,HYD,Delhi,Normal,Female,Books & Stationery,91.12,7,31.89,669.73,23-03-2023,21:56:00,UPI
+INV-IND-00642,MUM,Hyderabad,Normal,Female,Health & Wellness,6.53,3,0.98,20.57,27-01-2023,10:25:00,Credit Card
+INV-IND-00643,HYD,Chennai,Normal,Female,Sports,79.31,5,19.83,416.38,12-02-2023,08:56:00,Credit Card
+INV-IND-00644,BLR,Chennai,Normal,Male,Health & Wellness,16.82,4,3.36,70.64,28-02-2023,20:02:00,Debit Card
+INV-IND-00645,DEL,Bangalore,Member,Male,Electronics,80.77,7,28.27,593.66,01-02-2023,20:59:00,Cash
+INV-IND-00646,MUM,Hyderabad,Member,Female,Books & Stationery,63.51,9,28.58,600.17,02-02-2023,11:29:00,Credit Card
+INV-IND-00647,CHE,Delhi,Normal,Female,Sports,85.11,2,8.51,178.73,28-01-2023,16:48:00,Debit Card
+INV-IND-00648,PUN,Bangalore,Member,Female,Books & Stationery,14.26,8,5.7,119.78,24-02-2023,21:17:00,Cash
+INV-IND-00649,BLR,Kolkata,Member,Female,Groceries,58.1,9,26.14,549.04,01-03-2023,13:43:00,Debit Card
+INV-IND-00650,MUM,Hyderabad,Member,Female,Sports,52.6,9,23.67,497.07,11-03-2023,19:54:00,Cash
+INV-IND-00651,PUN,Bangalore,Member,Female,Home Appliances,72.09,7,25.23,529.86,03-03-2023,18:10:00,Net Banking
+INV-IND-00652,CHE,Bangalore,Member,Male,Health & Wellness,55.76,9,25.09,526.93,21-03-2023,12:38:00,Cash
+INV-IND-00653,KOL,Delhi,Normal,Male,Sports,56.37,9,25.37,532.7,03-02-2023,11:28:00,UPI
+INV-IND-00654,HYD,Bangalore,Member,Male,Home Appliances,45.81,3,6.87,144.3,28-03-2023,18:40:00,Net Banking
+INV-IND-00655,KOL,Ahmedabad,Member,Female,Books & Stationery,34.34,4,6.87,144.23,29-03-2023,13:34:00,Debit Card
+INV-IND-00656,DEL,Ahmedabad,Member,Female,Electronics,50.82,2,5.08,106.72,25-02-2023,12:47:00,Net Banking
+INV-IND-00657,KOL,Ahmedabad,Member,Female,Sports,16.26,3,2.44,51.22,13-01-2023,12:11:00,Net Banking
+INV-IND-00658,MUM,Chennai,Normal,Female,Home Appliances,96.34,5,24.09,505.79,25-02-2023,12:24:00,Debit Card
+INV-IND-00659,CHE,Chennai,Normal,Female,Books & Stationery,72.87,5,18.22,382.57,18-01-2023,12:30:00,Debit Card
+INV-IND-00660,KOL,Bangalore,Normal,Female,Books & Stationery,95.48,6,28.64,601.52,23-02-2023,19:39:00,UPI
+INV-IND-00661,MUM,Ahmedabad,Normal,Male,Books & Stationery,26.54,7,9.29,195.07,18-03-2023,14:58:00,Debit Card
+INV-IND-00662,DEL,Delhi,Member,Male,Electronics,88.54,7,30.99,650.77,12-02-2023,20:05:00,Credit Card
+INV-IND-00663,PUN,Ahmedabad,Normal,Female,Groceries,81.84,1,4.09,85.93,08-02-2023,21:14:00,Credit Card
+INV-IND-00664,CHE,Ahmedabad,Member,Male,Electronics,69.33,2,6.93,145.59,02-03-2023,11:30:00,UPI
+INV-IND-00665,KOL,Kolkata,Member,Female,Electronics,64.38,9,28.97,608.39,11-02-2023,14:04:00,Cash
+INV-IND-00666,HYD,Kolkata,Member,Male,Health & Wellness,35.07,2,3.51,73.65,22-03-2023,09:15:00,Cash
+INV-IND-00667,HYD,Mumbai,Member,Female,Books & Stationery,82.56,6,24.77,520.13,20-03-2023,18:59:00,Credit Card
+INV-IND-00668,CHE,Chennai,Member,Female,Home Appliances,52.64,1,2.63,55.27,18-01-2023,13:20:00,Debit Card
+INV-IND-00669,HYD,Delhi,Normal,Male,Sports,11.73,3,1.76,36.95,23-01-2023,20:04:00,UPI
+INV-IND-00670,KOL,Kolkata,Normal,Male,Health & Wellness,34.72,2,3.47,72.91,23-02-2023,15:12:00,Cash
+INV-IND-00671,KOL,Ahmedabad,Normal,Female,Books & Stationery,93.85,3,14.08,295.63,30-01-2023,09:48:00,Cash
+INV-IND-00672,CHE,Ahmedabad,Normal,Female,Clothing,85.81,5,21.45,450.5,27-02-2023,18:40:00,Net Banking
+INV-IND-00673,KOL,Mumbai,Member,Male,Electronics,98.28,6,29.48,619.16,09-03-2023,16:41:00,Credit Card
+INV-IND-00674,PUN,Mumbai,Normal,Male,Clothing,64.66,9,29.1,611.04,08-03-2023,08:46:00,Debit Card
+INV-IND-00675,MUM,Chennai,Member,Female,Books & Stationery,28.51,4,5.7,119.74,12-03-2023,14:18:00,UPI
+INV-IND-00676,DEL,Kolkata,Normal,Male,Health & Wellness,20.47,7,7.16,150.45,18-01-2023,21:46:00,Cash
+INV-IND-00677,PUN,Delhi,Member,Female,Home Appliances,22.76,6,6.83,143.39,07-01-2023,09:35:00,Net Banking
+INV-IND-00678,PUN,Delhi,Member,Female,Health & Wellness,6.88,2,0.69,14.45,09-02-2023,09:42:00,Credit Card
+INV-IND-00679,HYD,Pune,Normal,Female,Home Appliances,42.11,8,16.84,353.72,11-03-2023,10:25:00,Credit Card
+INV-IND-00680,MUM,Ahmedabad,Member,Female,Home Appliances,23.19,7,8.12,170.45,27-03-2023,08:26:00,UPI
+INV-IND-00681,CHE,Mumbai,Member,Male,Books & Stationery,44.11,7,15.44,324.21,06-03-2023,20:11:00,Cash
+INV-IND-00682,AHM,Ahmedabad,Normal,Male,Groceries,93.82,8,37.53,788.09,09-03-2023,16:49:00,UPI
+INV-IND-00683,HYD,Hyderabad,Member,Male,Books & Stationery,45.9,1,2.3,48.2,18-02-2023,19:18:00,UPI
+INV-IND-00684,MUM,Chennai,Normal,Male,Electronics,88.41,1,4.42,92.83,21-02-2023,09:21:00,Net Banking
+INV-IND-00685,KOL,Ahmedabad,Normal,Male,Health & Wellness,62.52,8,25.01,525.17,29-01-2023,15:07:00,Credit Card
+INV-IND-00686,CHE,Bangalore,Normal,Male,Home Appliances,28.48,4,5.7,119.62,21-01-2023,17:43:00,Debit Card
+INV-IND-00687,AHM,Mumbai,Member,Male,Books & Stationery,38.81,5,9.7,203.75,31-03-2023,21:41:00,Credit Card
+INV-IND-00688,CHE,Ahmedabad,Member,Female,Books & Stationery,12.97,8,5.19,108.95,19-03-2023,15:58:00,Credit Card
+INV-IND-00689,AHM,Delhi,Member,Male,Health & Wellness,36.68,5,9.17,192.57,09-01-2023,20:45:00,Net Banking
+INV-IND-00690,AHM,Chennai,Normal,Male,Health & Wellness,69.37,4,13.87,291.35,16-02-2023,10:41:00,Debit Card
+INV-IND-00691,HYD,Delhi,Member,Female,Home Appliances,11.85,6,3.56,74.66,17-03-2023,21:58:00,Cash
+INV-IND-00692,KOL,Bangalore,Normal,Male,Sports,24.51,5,6.13,128.68,11-02-2023,14:41:00,Debit Card
+INV-IND-00693,HYD,Mumbai,Normal,Male,Clothing,41.24,7,14.43,303.11,20-02-2023,16:27:00,Cash
+INV-IND-00694,AHM,Hyderabad,Member,Female,Electronics,98.29,7,34.4,722.43,25-02-2023,08:37:00,Debit Card
+INV-IND-00695,AHM,Ahmedabad,Normal,Male,Electronics,79.56,4,15.91,334.15,20-02-2023,16:30:00,UPI
+INV-IND-00696,BLR,Ahmedabad,Member,Male,Sports,74.68,5,18.67,392.07,11-03-2023,14:32:00,Debit Card
+INV-IND-00697,MUM,Bangalore,Member,Male,Groceries,16.04,3,2.41,50.53,20-01-2023,19:52:00,Net Banking
+INV-IND-00698,BLR,Chennai,Member,Female,Sports,79.19,4,15.84,332.6,29-03-2023,16:13:00,Cash
+INV-IND-00699,MUM,Chennai,Member,Male,Groceries,79.6,4,15.92,334.32,27-01-2023,11:19:00,Credit Card
+INV-IND-00700,DEL,Kolkata,Member,Male,Groceries,62.1,3,9.32,195.62,07-02-2023,12:14:00,Net Banking
+INV-IND-00701,PUN,Pune,Normal,Female,Sports,99.08,5,24.77,520.17,13-03-2023,10:58:00,Cash
+INV-IND-00702,CHE,Pune,Normal,Male,Electronics,35.9,5,8.98,188.48,06-03-2023,17:06:00,Cash
+INV-IND-00703,HYD,Chennai,Normal,Female,Clothing,94.42,7,33.05,693.99,23-02-2023,17:53:00,Credit Card
+INV-IND-00704,DEL,Mumbai,Member,Female,Electronics,91.9,4,18.38,385.98,24-01-2023,14:28:00,UPI
+INV-IND-00705,DEL,Chennai,Member,Male,Books & Stationery,6.09,4,1.22,25.58,16-02-2023,14:37:00,Net Banking
+INV-IND-00706,CHE,Delhi,Member,Female,Electronics,47.76,9,21.49,451.33,12-03-2023,20:11:00,Credit Card
+INV-IND-00707,CHE,Chennai,Normal,Female,Electronics,97.82,6,29.35,616.27,24-03-2023,10:37:00,Credit Card
+INV-IND-00708,MUM,Delhi,Member,Male,Sports,14.8,4,2.96,62.16,27-03-2023,08:03:00,UPI
+INV-IND-00709,BLR,Pune,Normal,Female,Sports,57.04,2,5.7,119.78,04-03-2023,10:46:00,Net Banking
+INV-IND-00710,KOL,Kolkata,Normal,Female,Books & Stationery,98,6,29.4,617.4,26-02-2023,15:47:00,Credit Card
+INV-IND-00711,MUM,Kolkata,Member,Male,Books & Stationery,57.77,2,5.78,121.32,24-02-2023,14:48:00,UPI
+INV-IND-00712,KOL,Bangalore,Member,Male,Sports,23.03,5,5.76,120.91,01-03-2023,14:51:00,Net Banking
+INV-IND-00713,DEL,Chennai,Normal,Male,Electronics,60.31,6,18.09,379.95,03-03-2023,11:23:00,Debit Card
+INV-IND-00714,KOL,Delhi,Member,Female,Clothing,24.42,4,4.88,102.56,30-01-2023,11:13:00,Cash
+INV-IND-00715,BLR,Bangalore,Normal,Male,Groceries,54.37,3,8.16,171.27,22-01-2023,11:54:00,UPI
+INV-IND-00716,MUM,Chennai,Member,Female,Health & Wellness,12.03,7,4.21,88.42,16-03-2023,19:57:00,Cash
+INV-IND-00717,AHM,Kolkata,Member,Female,Groceries,62.52,2,6.25,131.29,25-03-2023,10:29:00,Debit Card
+INV-IND-00718,CHE,Pune,Normal,Female,Books & Stationery,54.1,6,16.23,340.83,29-01-2023,10:38:00,Credit Card
+INV-IND-00719,AHM,Bangalore,Member,Female,Books & Stationery,75.32,4,15.06,316.34,10-02-2023,12:38:00,Credit Card
+INV-IND-00720,BLR,Delhi,Normal,Female,Groceries,64.92,6,19.48,409,11-02-2023,21:35:00,Net Banking
+INV-IND-00721,PUN,Kolkata,Member,Female,Health & Wellness,57.21,4,11.44,240.28,06-03-2023,14:43:00,UPI
+INV-IND-00722,BLR,Pune,Normal,Female,Electronics,70.53,4,14.11,296.23,31-01-2023,19:17:00,UPI
+INV-IND-00723,PUN,Chennai,Normal,Male,Clothing,18.67,4,3.73,78.41,30-01-2023,13:10:00,Net Banking
+INV-IND-00724,MUM,Bangalore,Member,Male,Clothing,61.56,9,27.7,581.74,18-01-2023,09:07:00,Cash
+INV-IND-00725,CHE,Delhi,Normal,Female,Groceries,21.35,7,7.47,156.92,17-01-2023,15:42:00,Credit Card
+INV-IND-00726,BLR,Pune,Member,Female,Health & Wellness,92.92,3,13.94,292.7,07-02-2023,09:27:00,Credit Card
+INV-IND-00727,AHM,Chennai,Member,Male,Books & Stationery,11.49,3,1.72,36.19,14-01-2023,11:36:00,UPI
+INV-IND-00728,PUN,Mumbai,Member,Female,Home Appliances,45.89,6,13.77,289.11,28-03-2023,08:00:00,UPI
+INV-IND-00729,CHE,Chennai,Normal,Male,Electronics,71.1,6,21.33,447.93,30-03-2023,10:14:00,Net Banking
+INV-IND-00730,HYD,Kolkata,Normal,Male,Groceries,48.51,4,9.7,203.74,20-03-2023,19:36:00,Debit Card
+INV-IND-00731,HYD,Bangalore,Member,Male,Clothing,13.75,9,6.19,129.94,25-02-2023,13:50:00,Cash
+INV-IND-00732,HYD,Hyderabad,Member,Female,Books & Stationery,57.57,4,11.51,241.79,22-01-2023,10:19:00,Debit Card
+INV-IND-00733,KOL,Chennai,Normal,Female,Sports,65.96,9,29.68,623.32,08-03-2023,18:17:00,Debit Card
+INV-IND-00734,BLR,Ahmedabad,Member,Male,Sports,71.86,4,14.37,301.81,25-02-2023,10:12:00,UPI
+INV-IND-00735,MUM,Hyderabad,Member,Male,Health & Wellness,40.46,2,4.05,84.97,19-01-2023,18:19:00,UPI
+INV-IND-00736,AHM,Hyderabad,Normal,Male,Health & Wellness,58.55,2,5.86,122.96,26-02-2023,10:57:00,UPI
+INV-IND-00737,MUM,Bangalore,Member,Male,Groceries,47.82,5,11.96,251.06,13-02-2023,21:29:00,Debit Card
+INV-IND-00738,KOL,Bangalore,Normal,Male,Home Appliances,68.85,4,13.77,289.17,04-02-2023,13:57:00,Cash
+INV-IND-00739,MUM,Delhi,Member,Female,Clothing,60.44,7,21.15,444.23,01-01-2023,14:19:00,UPI
+INV-IND-00740,PUN,Kolkata,Normal,Male,Groceries,54.95,5,13.74,288.49,21-02-2023,18:57:00,Credit Card
+INV-IND-00741,HYD,Delhi,Member,Female,Home Appliances,28.7,6,8.61,180.81,26-03-2023,15:29:00,Cash
+INV-IND-00742,AHM,Mumbai,Member,Male,Books & Stationery,5.19,4,1.04,21.8,11-03-2023,17:45:00,Credit Card
+INV-IND-00743,BLR,Chennai,Normal,Female,Health & Wellness,21.54,2,2.15,45.23,06-02-2023,15:42:00,Cash
+INV-IND-00744,MUM,Bangalore,Member,Female,Sports,16.12,9,7.25,152.33,06-03-2023,09:47:00,UPI
+INV-IND-00745,MUM,Pune,Normal,Female,Electronics,47.66,7,16.68,350.3,20-02-2023,10:01:00,Net Banking
+INV-IND-00746,DEL,Bangalore,Member,Female,Books & Stationery,63.16,4,12.63,265.27,01-01-2023,08:16:00,UPI
+INV-IND-00747,DEL,Bangalore,Normal,Female,Sports,25.24,3,3.79,79.51,21-01-2023,11:15:00,Debit Card
+INV-IND-00748,DEL,Bangalore,Normal,Female,Clothing,94.21,3,14.13,296.76,22-02-2023,13:26:00,Debit Card
+INV-IND-00749,BLR,Bangalore,Normal,Male,Clothing,5.63,9,2.53,53.2,16-01-2023,13:17:00,Cash
+INV-IND-00750,HYD,Ahmedabad,Normal,Female,Sports,78.37,5,19.59,411.44,02-03-2023,21:28:00,Debit Card
+INV-IND-00751,CHE,Mumbai,Member,Male,Books & Stationery,64.39,3,9.66,202.83,23-02-2023,15:58:00,UPI
+INV-IND-00752,HYD,Pune,Member,Female,Sports,40.49,5,10.12,212.57,09-02-2023,12:11:00,Credit Card
+INV-IND-00753,AHM,Chennai,Normal,Female,Home Appliances,9.8,2,0.98,20.58,26-01-2023,16:22:00,UPI
+INV-IND-00754,HYD,Hyderabad,Normal,Male,Groceries,64.61,4,12.92,271.36,21-03-2023,09:58:00,Cash
+INV-IND-00755,BLR,Ahmedabad,Normal,Female,Health & Wellness,41.63,2,4.16,87.42,06-03-2023,19:13:00,Debit Card
+INV-IND-00756,PUN,Kolkata,Member,Male,Home Appliances,93.95,2,9.4,197.3,15-03-2023,19:49:00,Credit Card
+INV-IND-00757,PUN,Ahmedabad,Member,Male,Electronics,56.49,8,22.6,474.52,05-03-2023,16:17:00,Net Banking
+INV-IND-00758,BLR,Hyderabad,Member,Male,Sports,94.27,1,4.71,98.98,12-02-2023,16:05:00,Credit Card
+INV-IND-00759,DEL,Hyderabad,Member,Male,Electronics,25.95,7,9.08,190.73,17-01-2023,08:44:00,Credit Card
+INV-IND-00760,MUM,Kolkata,Normal,Female,Electronics,73.94,5,18.48,388.18,28-02-2023,13:13:00,UPI
+INV-IND-00761,KOL,Ahmedabad,Normal,Female,Home Appliances,63.64,8,25.46,534.58,23-01-2023,10:58:00,Net Banking
+INV-IND-00762,KOL,Hyderabad,Normal,Male,Health & Wellness,75.24,1,3.76,79,07-01-2023,14:57:00,Cash
+INV-IND-00763,CHE,Chennai,Member,Female,Books & Stationery,25.39,7,8.89,186.62,13-02-2023,17:15:00,Cash
+INV-IND-00764,MUM,Ahmedabad,Member,Female,Clothing,68.17,5,17.04,357.89,22-02-2023,21:02:00,Credit Card
+INV-IND-00765,CHE,Ahmedabad,Member,Male,Groceries,52.31,4,10.46,219.7,12-03-2023,09:17:00,Credit Card
+INV-IND-00766,DEL,Kolkata,Normal,Female,Clothing,75.57,7,26.45,555.44,20-03-2023,13:25:00,Debit Card
+INV-IND-00767,CHE,Pune,Normal,Male,Health & Wellness,36.07,2,3.61,75.75,03-02-2023,19:29:00,Net Banking
+INV-IND-00768,MUM,Pune,Member,Male,Clothing,89.56,1,4.48,94.04,15-02-2023,13:56:00,Credit Card
+INV-IND-00769,AHM,Bangalore,Normal,Female,Sports,13.01,1,0.65,13.66,09-03-2023,14:55:00,Debit Card
+INV-IND-00770,MUM,Hyderabad,Member,Female,Sports,81.68,1,4.08,85.76,19-03-2023,16:34:00,Net Banking
+INV-IND-00771,KOL,Bangalore,Member,Female,Home Appliances,86.83,5,21.71,455.86,19-03-2023,11:33:00,Cash
+INV-IND-00772,PUN,Kolkata,Normal,Male,Electronics,82.64,7,28.92,607.4,16-01-2023,09:13:00,Debit Card
+INV-IND-00773,DEL,Mumbai,Member,Male,Health & Wellness,53.71,2,5.37,112.79,12-03-2023,17:22:00,Net Banking
+INV-IND-00774,AHM,Ahmedabad,Normal,Female,Health & Wellness,46.65,8,18.66,391.86,19-01-2023,17:38:00,Debit Card
+INV-IND-00775,BLR,Chennai,Member,Female,Clothing,99.64,4,19.93,418.49,02-01-2023,16:28:00,Credit Card
+INV-IND-00776,AHM,Delhi,Normal,Female,Home Appliances,26.77,3,4.02,84.33,10-01-2023,13:31:00,UPI
+INV-IND-00777,AHM,Delhi,Normal,Female,Clothing,56.95,8,22.78,478.38,19-02-2023,09:32:00,Cash
+INV-IND-00778,CHE,Kolkata,Normal,Male,Clothing,68.71,2,6.87,144.29,22-03-2023,19:27:00,Credit Card
+INV-IND-00779,KOL,Delhi,Member,Female,Health & Wellness,71.58,3,10.74,225.48,12-01-2023,18:56:00,Credit Card
+INV-IND-00780,CHE,Bangalore,Member,Male,Clothing,24.38,3,3.66,76.8,11-03-2023,16:38:00,Net Banking
+INV-IND-00781,CHE,Kolkata,Normal,Male,Electronics,67.13,1,3.36,70.49,22-01-2023,12:28:00,Debit Card
+INV-IND-00782,BLR,Ahmedabad,Normal,Female,Clothing,82.75,6,24.83,521.33,01-02-2023,14:15:00,Cash
+INV-IND-00783,DEL,Bangalore,Member,Female,Electronics,9.75,2,0.98,20.48,25-03-2023,21:53:00,Credit Card
+INV-IND-00784,MUM,Pune,Member,Female,Health & Wellness,91.59,1,4.58,96.17,01-01-2023,08:03:00,Net Banking
+INV-IND-00785,HYD,Delhi,Member,Male,Home Appliances,7.8,2,0.78,16.38,23-02-2023,10:17:00,Cash
+INV-IND-00786,CHE,Hyderabad,Normal,Female,Sports,38.82,6,11.65,244.57,27-02-2023,11:50:00,Debit Card
+INV-IND-00787,HYD,Ahmedabad,Member,Female,Electronics,6.5,4,1.3,27.3,11-03-2023,17:59:00,Credit Card
+INV-IND-00788,DEL,Chennai,Member,Male,Home Appliances,12.33,6,3.7,77.68,24-03-2023,16:48:00,Credit Card
+INV-IND-00789,HYD,Mumbai,Normal,Female,Home Appliances,91.56,9,41.2,865.24,18-01-2023,08:51:00,Credit Card
+INV-IND-00790,CHE,Pune,Member,Male,Electronics,38.71,8,15.48,325.16,06-01-2023,18:45:00,Cash
+INV-IND-00791,BLR,Mumbai,Member,Female,Health & Wellness,45.35,1,2.27,47.62,14-02-2023,20:02:00,Cash
+INV-IND-00792,HYD,Pune,Member,Male,Groceries,25.46,8,10.18,213.86,23-01-2023,13:24:00,Cash
+INV-IND-00793,DEL,Chennai,Normal,Female,Home Appliances,61.72,9,27.77,583.25,23-01-2023,20:10:00,Cash
+INV-IND-00794,DEL,Hyderabad,Normal,Female,Home Appliances,61.51,6,18.45,387.51,26-01-2023,19:56:00,Net Banking
+INV-IND-00795,PUN,Pune,Normal,Male,Health & Wellness,40.36,5,10.09,211.89,18-03-2023,20:02:00,UPI
+INV-IND-00796,PUN,Delhi,Normal,Male,Health & Wellness,36.64,6,10.99,230.83,07-01-2023,12:36:00,Net Banking
+INV-IND-00797,BLR,Chennai,Normal,Female,Clothing,89.07,6,26.72,561.14,20-03-2023,16:55:00,Credit Card
+INV-IND-00798,HYD,Hyderabad,Normal,Male,Health & Wellness,41.41,9,18.63,391.32,13-02-2023,16:05:00,Net Banking
+INV-IND-00799,HYD,Mumbai,Normal,Male,Home Appliances,51.88,4,10.38,217.9,27-01-2023,16:35:00,Debit Card
+INV-IND-00800,PUN,Chennai,Member,Male,Electronics,31.91,2,3.19,67.01,26-01-2023,10:31:00,Cash
+INV-IND-00801,MUM,Delhi,Member,Male,Groceries,79.74,9,35.88,753.54,20-03-2023,16:02:00,Debit Card
+INV-IND-00802,KOL,Chennai,Normal,Female,Books & Stationery,42.76,2,4.28,89.8,05-02-2023,12:18:00,Debit Card
+INV-IND-00803,DEL,Bangalore,Member,Female,Clothing,53.79,9,24.21,508.32,24-02-2023,13:23:00,Credit Card
+INV-IND-00804,MUM,Bangalore,Member,Male,Books & Stationery,29.07,2,2.91,61.05,05-03-2023,10:47:00,Cash
+INV-IND-00805,DEL,Mumbai,Normal,Male,Electronics,98.83,8,39.53,830.17,26-02-2023,19:27:00,Debit Card
+INV-IND-00806,AHM,Kolkata,Member,Male,Groceries,32.69,9,14.71,308.92,10-03-2023,13:09:00,Credit Card
+INV-IND-00807,AHM,Ahmedabad,Member,Male,Groceries,78.22,9,35.2,739.18,02-03-2023,21:22:00,Cash
+INV-IND-00808,MUM,Bangalore,Member,Female,Groceries,45.61,9,20.52,431.01,02-01-2023,15:58:00,UPI
+INV-IND-00809,AHM,Ahmedabad,Member,Female,Sports,24.59,2,2.46,51.64,24-02-2023,08:55:00,Credit Card
+INV-IND-00810,PUN,Ahmedabad,Member,Male,Electronics,80.97,4,16.19,340.07,21-03-2023,18:19:00,Net Banking
+INV-IND-00811,PUN,Mumbai,Normal,Male,Clothing,36.69,7,12.84,269.67,28-03-2023,15:52:00,Cash
+INV-IND-00812,KOL,Delhi,Normal,Male,Clothing,87.19,2,8.72,183.1,07-02-2023,12:55:00,Debit Card
+INV-IND-00813,MUM,Mumbai,Normal,Female,Groceries,91.95,1,4.6,96.55,21-03-2023,15:40:00,Debit Card
+INV-IND-00814,DEL,Kolkata,Member,Male,Electronics,86.68,3,13,273.04,19-03-2023,13:23:00,Net Banking
+INV-IND-00815,HYD,Hyderabad,Normal,Female,Sports,8.33,4,1.67,34.99,29-01-2023,21:33:00,Net Banking
+INV-IND-00816,DEL,Bangalore,Member,Male,Groceries,79.8,8,31.92,670.32,26-01-2023,10:20:00,Debit Card
+INV-IND-00817,CHE,Pune,Member,Female,Health & Wellness,44.08,6,13.22,277.7,04-02-2023,19:06:00,Cash
+INV-IND-00818,PUN,Delhi,Member,Male,Books & Stationery,88,2,8.8,184.8,20-03-2023,12:21:00,Credit Card
+INV-IND-00819,BLR,Kolkata,Member,Female,Clothing,65.61,9,29.52,620.01,08-03-2023,21:04:00,Net Banking
+INV-IND-00820,BLR,Hyderabad,Normal,Male,Books & Stationery,84.2,2,8.42,176.82,28-03-2023,14:59:00,Net Banking
+INV-IND-00821,PUN,Kolkata,Normal,Male,Home Appliances,52.45,5,13.11,275.36,29-01-2023,20:23:00,Net Banking
+INV-IND-00822,CHE,Delhi,Member,Male,Groceries,55.83,4,11.17,234.49,03-02-2023,12:00:00,UPI
+INV-IND-00823,BLR,Mumbai,Normal,Female,Health & Wellness,18.72,7,6.55,137.59,10-02-2023,13:54:00,Cash
+INV-IND-00824,AHM,Hyderabad,Member,Male,Clothing,79.48,8,31.79,667.63,10-02-2023,20:49:00,Cash
+INV-IND-00825,PUN,Pune,Normal,Female,Books & Stationery,44.84,5,11.21,235.41,23-01-2023,20:40:00,Cash
+INV-IND-00826,BLR,Ahmedabad,Normal,Female,Sports,52.51,5,13.13,275.68,12-03-2023,17:48:00,Cash
+INV-IND-00827,PUN,Delhi,Member,Male,Electronics,79.58,2,7.96,167.12,03-01-2023,10:59:00,Cash
+INV-IND-00828,KOL,Delhi,Normal,Male,Clothing,61.89,8,24.76,519.88,27-02-2023,09:05:00,Debit Card
+INV-IND-00829,HYD,Ahmedabad,Member,Male,Books & Stationery,24.1,2,2.41,50.61,01-02-2023,21:39:00,Net Banking
+INV-IND-00830,HYD,Mumbai,Normal,Female,Electronics,61.07,6,18.32,384.74,31-01-2023,13:47:00,Debit Card
+INV-IND-00831,DEL,Hyderabad,Member,Male,Books & Stationery,43.73,8,17.49,367.33,23-03-2023,10:50:00,UPI
+INV-IND-00832,CHE,Bangalore,Member,Female,Electronics,49.6,6,14.88,312.48,12-02-2023,15:53:00,Credit Card
+INV-IND-00833,PUN,Kolkata,Normal,Female,Sports,7.69,4,1.54,32.3,07-01-2023,16:53:00,Net Banking
+INV-IND-00834,MUM,Pune,Normal,Male,Sports,24.95,4,4.99,104.79,01-01-2023,14:06:00,UPI
+INV-IND-00835,DEL,Mumbai,Member,Male,Groceries,31.7,6,9.51,199.71,02-03-2023,09:46:00,Debit Card
+INV-IND-00836,DEL,Chennai,Normal,Male,Groceries,72.73,4,14.55,305.47,14-01-2023,15:18:00,Credit Card
+INV-IND-00837,PUN,Hyderabad,Normal,Male,Clothing,6.09,8,2.44,51.16,21-02-2023,21:54:00,UPI
+INV-IND-00838,PUN,Pune,Member,Male,Sports,43.83,9,19.72,414.19,06-01-2023,11:46:00,Credit Card
+INV-IND-00839,DEL,Bangalore,Member,Male,Health & Wellness,92.78,1,4.64,97.42,10-01-2023,15:23:00,UPI
+INV-IND-00840,DEL,Delhi,Normal,Female,Books & Stationery,15.63,4,3.13,65.65,12-03-2023,15:21:00,Debit Card
+INV-IND-00841,HYD,Chennai,Member,Female,Books & Stationery,54.06,4,10.81,227.05,31-03-2023,14:35:00,Credit Card
+INV-IND-00842,MUM,Delhi,Member,Female,Books & Stationery,79.72,2,7.97,167.41,30-01-2023,20:07:00,UPI
+INV-IND-00843,AHM,Mumbai,Member,Male,Clothing,94.54,6,28.36,595.6,21-01-2023,17:40:00,Debit Card
+INV-IND-00844,DEL,Pune,Normal,Female,Books & Stationery,75.94,3,11.39,239.21,01-03-2023,09:23:00,Net Banking
+INV-IND-00845,AHM,Ahmedabad,Normal,Female,Home Appliances,73.45,7,25.71,539.86,22-03-2023,18:14:00,Debit Card
+INV-IND-00846,HYD,Mumbai,Member,Female,Electronics,83.52,5,20.88,438.48,15-03-2023,17:10:00,Debit Card
+INV-IND-00847,DEL,Pune,Normal,Female,Books & Stationery,47.39,4,9.48,199.04,04-03-2023,08:12:00,Net Banking
+INV-IND-00848,BLR,Chennai,Member,Female,Electronics,81.56,5,20.39,428.19,11-02-2023,21:28:00,Debit Card
+INV-IND-00849,DEL,Kolkata,Normal,Male,Groceries,5.76,8,2.3,48.38,20-02-2023,21:44:00,Net Banking
+INV-IND-00850,PUN,Mumbai,Member,Male,Books & Stationery,92.83,3,13.92,292.41,05-03-2023,19:32:00,Net Banking
+INV-IND-00851,CHE,Chennai,Member,Female,Health & Wellness,47.11,7,16.49,346.26,17-03-2023,16:12:00,Net Banking
+INV-IND-00852,CHE,Delhi,Normal,Female,Sports,57.57,6,17.27,362.69,25-02-2023,12:27:00,UPI
+INV-IND-00853,DEL,Chennai,Member,Female,Sports,29.21,1,1.46,30.67,21-03-2023,16:44:00,Credit Card
+INV-IND-00854,KOL,Hyderabad,Normal,Male,Groceries,75.54,7,26.44,555.22,10-02-2023,09:59:00,UPI
+INV-IND-00855,BLR,Delhi,Normal,Male,Home Appliances,12.28,7,4.3,90.26,01-02-2023,13:52:00,Net Banking
+INV-IND-00856,MUM,Chennai,Member,Female,Clothing,87.9,1,4.4,92.3,15-01-2023,08:56:00,Credit Card
+INV-IND-00857,DEL,Bangalore,Member,Male,Clothing,83.67,9,37.65,790.68,03-03-2023,08:39:00,Credit Card
+INV-IND-00858,AHM,Mumbai,Normal,Male,Health & Wellness,25.53,6,7.66,160.84,27-01-2023,13:35:00,Net Banking
+INV-IND-00859,MUM,Chennai,Member,Female,Groceries,81.89,2,8.19,171.97,28-01-2023,18:39:00,Credit Card
+INV-IND-00860,BLR,Chennai,Member,Male,Groceries,79.7,5,19.92,418.42,22-03-2023,10:52:00,Credit Card
+INV-IND-00861,DEL,Bangalore,Member,Male,Home Appliances,65.06,4,13.01,273.25,05-03-2023,17:06:00,UPI
+INV-IND-00862,KOL,Ahmedabad,Member,Female,Books & Stationery,40.48,7,14.17,297.53,28-02-2023,12:18:00,Credit Card
+INV-IND-00863,HYD,Ahmedabad,Member,Male,Clothing,30.79,8,12.32,258.64,27-02-2023,16:36:00,Net Banking
+INV-IND-00864,KOL,Bangalore,Normal,Male,Books & Stationery,27.02,1,1.35,28.37,02-01-2023,20:09:00,Cash
+INV-IND-00865,PUN,Bangalore,Normal,Female,Groceries,35.27,5,8.82,185.17,05-02-2023,16:42:00,Cash
+INV-IND-00866,KOL,Delhi,Member,Male,Books & Stationery,90.84,3,13.63,286.15,12-03-2023,21:58:00,Cash
+INV-IND-00867,AHM,Ahmedabad,Member,Male,Sports,12.38,1,0.62,13,13-01-2023,09:56:00,Net Banking
+INV-IND-00868,HYD,Mumbai,Member,Female,Health & Wellness,83.74,3,12.56,263.78,15-01-2023,11:03:00,Cash
+INV-IND-00869,PUN,Kolkata,Normal,Female,Clothing,38.14,6,11.44,240.28,30-03-2023,09:55:00,UPI
+INV-IND-00870,HYD,Hyderabad,Member,Female,Home Appliances,54.55,7,19.09,400.94,28-03-2023,10:41:00,Net Banking
+INV-IND-00871,CHE,Mumbai,Normal,Male,Health & Wellness,80.48,8,32.19,676.03,01-03-2023,17:38:00,Net Banking
+INV-IND-00872,HYD,Hyderabad,Normal,Female,Electronics,89.02,4,17.8,373.88,22-01-2023,19:51:00,Net Banking
+INV-IND-00873,DEL,Mumbai,Normal,Male,Sports,37.75,3,5.66,118.91,04-03-2023,17:02:00,Credit Card
+INV-IND-00874,MUM,Chennai,Member,Female,Home Appliances,48.88,5,12.22,256.62,31-03-2023,17:46:00,Credit Card
+INV-IND-00875,CHE,Kolkata,Normal,Male,Health & Wellness,44.38,9,19.97,419.39,16-03-2023,11:56:00,Credit Card
+INV-IND-00876,CHE,Pune,Member,Female,Groceries,6.26,6,1.88,39.44,15-03-2023,21:58:00,Debit Card
+INV-IND-00877,MUM,Ahmedabad,Normal,Female,Electronics,33.11,9,14.9,312.89,25-01-2023,09:05:00,UPI
+INV-IND-00878,AHM,Kolkata,Member,Female,Home Appliances,48.62,6,14.59,306.31,17-02-2023,09:09:00,Net Banking
+INV-IND-00879,CHE,Mumbai,Normal,Female,Groceries,44.05,2,4.4,92.5,12-02-2023,21:28:00,Net Banking
+INV-IND-00880,HYD,Hyderabad,Member,Male,Sports,73.58,5,18.4,386.3,07-02-2023,15:26:00,Credit Card
+INV-IND-00881,KOL,Kolkata,Normal,Female,Electronics,41.56,9,18.7,392.74,10-02-2023,14:55:00,Net Banking
+INV-IND-00882,BLR,Chennai,Member,Female,Clothing,51.49,8,20.6,432.52,14-02-2023,16:51:00,Net Banking
+INV-IND-00883,AHM,Mumbai,Member,Male,Groceries,45.81,7,16.03,336.7,29-03-2023,15:20:00,Cash
+INV-IND-00884,HYD,Chennai,Member,Female,Health & Wellness,75.36,1,3.77,79.13,09-02-2023,20:17:00,Net Banking
+INV-IND-00885,PUN,Kolkata,Member,Male,Books & Stationery,86.98,4,17.4,365.32,17-01-2023,15:43:00,Debit Card
+INV-IND-00886,PUN,Delhi,Normal,Female,Home Appliances,55.53,7,19.44,408.15,29-03-2023,14:35:00,Credit Card
+INV-IND-00887,KOL,Chennai,Normal,Female,Electronics,80,7,28,588,26-02-2023,19:50:00,UPI
+INV-IND-00888,AHM,Pune,Member,Female,Groceries,33.19,6,9.96,209.1,02-01-2023,17:10:00,UPI
+INV-IND-00889,AHM,Pune,Normal,Male,Clothing,56.43,8,22.57,474.01,03-03-2023,18:56:00,Cash
+INV-IND-00890,KOL,Ahmedabad,Member,Female,Books & Stationery,37.8,6,11.34,238.14,29-03-2023,17:16:00,UPI
+INV-IND-00891,AHM,Pune,Member,Female,Home Appliances,44.35,3,6.65,139.7,09-01-2023,14:34:00,UPI
+INV-IND-00892,CHE,Chennai,Normal,Female,Home Appliances,74.58,4,14.92,313.24,09-03-2023,13:25:00,Credit Card
+INV-IND-00893,DEL,Bangalore,Member,Male,Groceries,88.76,3,13.31,279.59,22-03-2023,09:30:00,Credit Card
+INV-IND-00894,DEL,Ahmedabad,Member,Male,Clothing,16.54,1,0.83,17.37,17-01-2023,20:29:00,Debit Card
+INV-IND-00895,AHM,Ahmedabad,Normal,Female,Sports,65.29,5,16.32,342.77,19-02-2023,09:09:00,Cash
+INV-IND-00896,CHE,Chennai,Member,Male,Books & Stationery,60.3,1,3.02,63.32,09-02-2023,10:45:00,UPI
+INV-IND-00897,CHE,Kolkata,Member,Female,Sports,16.25,1,0.81,17.06,27-02-2023,18:41:00,Debit Card
+INV-IND-00898,MUM,Delhi,Member,Female,Electronics,25.13,2,2.51,52.77,16-03-2023,11:33:00,Cash
+INV-IND-00899,MUM,Pune,Member,Female,Groceries,34.55,4,6.91,145.11,26-03-2023,18:00:00,UPI
+INV-IND-00900,BLR,Delhi,Normal,Female,Books & Stationery,20.86,6,6.26,131.42,21-01-2023,13:34:00,UPI
+INV-IND-00901,BLR,Pune,Normal,Female,Electronics,28.15,8,11.26,236.46,18-01-2023,20:43:00,Credit Card
+INV-IND-00902,BLR,Bangalore,Normal,Female,Sports,30.42,3,4.56,95.82,24-02-2023,14:08:00,Net Banking
+INV-IND-00903,BLR,Kolkata,Member,Female,Books & Stationery,36.89,1,1.84,38.73,29-01-2023,17:43:00,Cash
+INV-IND-00904,KOL,Chennai,Member,Male,Home Appliances,76.19,3,11.43,240,24-01-2023,19:16:00,UPI
+INV-IND-00905,KOL,Delhi,Normal,Male,Electronics,59.33,3,8.9,186.89,15-03-2023,08:48:00,Cash
+INV-IND-00906,MUM,Delhi,Member,Male,Clothing,98.69,5,24.67,518.12,17-01-2023,08:51:00,Debit Card
+INV-IND-00907,DEL,Chennai,Member,Male,Health & Wellness,44.4,4,8.88,186.48,18-01-2023,12:48:00,Debit Card
+INV-IND-00908,CHE,Kolkata,Member,Male,Sports,76.62,4,15.32,321.8,11-02-2023,21:09:00,Net Banking
+INV-IND-00909,PUN,Kolkata,Member,Male,Sports,87.79,9,39.51,829.62,25-03-2023,18:25:00,UPI
+INV-IND-00910,DEL,Ahmedabad,Normal,Male,Clothing,69.5,7,24.33,510.83,14-02-2023,11:58:00,Credit Card
+INV-IND-00911,HYD,Pune,Normal,Female,Books & Stationery,44.13,4,8.83,185.35,23-03-2023,10:12:00,UPI
+INV-IND-00912,KOL,Bangalore,Normal,Female,Books & Stationery,76.59,3,11.49,241.26,17-01-2023,21:05:00,Cash
+INV-IND-00913,BLR,Ahmedabad,Member,Female,Books & Stationery,24.35,6,7.31,153.41,14-03-2023,10:45:00,Debit Card
+INV-IND-00914,BLR,Chennai,Normal,Female,Electronics,36.12,3,5.42,113.78,14-01-2023,14:13:00,Cash
+INV-IND-00915,HYD,Ahmedabad,Normal,Male,Groceries,56.94,6,17.08,358.72,18-02-2023,14:12:00,Net Banking
+INV-IND-00916,DEL,Mumbai,Member,Male,Home Appliances,59.66,9,26.85,563.79,29-01-2023,21:24:00,Debit Card
+INV-IND-00917,BLR,Chennai,Member,Female,Health & Wellness,7.1,6,2.13,44.73,04-01-2023,15:57:00,Credit Card
+INV-IND-00918,DEL,Pune,Normal,Female,Groceries,94.79,4,18.96,398.12,23-03-2023,20:34:00,Debit Card
+INV-IND-00919,CHE,Kolkata,Normal,Male,Groceries,71.18,5,17.8,373.7,20-01-2023,15:58:00,UPI
+INV-IND-00920,HYD,Mumbai,Normal,Female,Clothing,52.09,6,15.63,328.17,16-02-2023,21:51:00,UPI
+INV-IND-00921,PUN,Delhi,Normal,Female,Electronics,93.65,3,14.05,295,09-01-2023,18:49:00,Debit Card
+INV-IND-00922,DEL,Pune,Member,Female,Sports,46.71,8,18.68,392.36,18-03-2023,17:50:00,Net Banking
+INV-IND-00923,CHE,Chennai,Normal,Female,Sports,98.14,4,19.63,412.19,20-03-2023,19:21:00,UPI
+INV-IND-00924,AHM,Bangalore,Normal,Male,Clothing,53.67,8,21.47,450.83,27-01-2023,18:34:00,UPI
+INV-IND-00925,AHM,Mumbai,Member,Female,Electronics,15.86,3,2.38,49.96,15-01-2023,19:27:00,Credit Card
+INV-IND-00926,DEL,Bangalore,Normal,Female,Clothing,77.66,7,27.18,570.8,19-01-2023,12:59:00,Debit Card
+INV-IND-00927,AHM,Ahmedabad,Member,Male,Sports,69.5,9,31.28,656.78,31-03-2023,09:21:00,UPI
+INV-IND-00928,DEL,Mumbai,Member,Male,Groceries,78.43,4,15.69,329.41,21-02-2023,09:26:00,Net Banking
+INV-IND-00929,BLR,Bangalore,Member,Female,Home Appliances,95.39,8,38.16,801.28,26-01-2023,11:44:00,Cash
+INV-IND-00930,MUM,Delhi,Normal,Male,Books & Stationery,78.77,3,11.82,248.13,30-03-2023,08:15:00,Debit Card
+INV-IND-00931,AHM,Hyderabad,Normal,Female,Electronics,63.08,7,22.08,463.64,26-01-2023,21:41:00,Credit Card
+INV-IND-00932,KOL,Chennai,Member,Female,Health & Wellness,86.44,3,12.97,272.29,26-01-2023,13:57:00,UPI
+INV-IND-00933,DEL,Chennai,Normal,Male,Health & Wellness,68.96,7,24.14,506.86,15-02-2023,10:42:00,Net Banking
+INV-IND-00934,DEL,Pune,Normal,Female,Groceries,43.77,6,13.13,275.75,18-02-2023,18:09:00,Debit Card
+INV-IND-00935,DEL,Mumbai,Member,Female,Clothing,89.13,2,8.91,187.17,23-03-2023,19:07:00,Net Banking
+INV-IND-00936,MUM,Bangalore,Member,Female,Clothing,26.08,3,3.91,82.15,22-02-2023,16:33:00,Net Banking
+INV-IND-00937,CHE,Ahmedabad,Normal,Female,Sports,72.89,6,21.87,459.21,03-01-2023,13:49:00,Credit Card
+INV-IND-00938,AHM,Chennai,Member,Male,Groceries,88.75,4,17.75,372.75,07-03-2023,19:20:00,Debit Card
+INV-IND-00939,PUN,Chennai,Normal,Male,Sports,74.48,6,22.34,469.22,11-02-2023,15:43:00,UPI
+INV-IND-00940,PUN,Ahmedabad,Normal,Female,Sports,71.24,1,3.56,74.8,19-01-2023,21:46:00,Credit Card
+INV-IND-00941,HYD,Delhi,Normal,Male,Health & Wellness,76.5,1,3.82,80.32,17-01-2023,21:56:00,UPI
+INV-IND-00942,BLR,Bangalore,Normal,Female,Sports,49.18,3,7.38,154.92,02-02-2023,14:14:00,Cash
+INV-IND-00943,MUM,Chennai,Member,Female,Books & Stationery,88.05,8,35.22,739.62,17-03-2023,09:31:00,Net Banking
+INV-IND-00944,CHE,Pune,Member,Female,Sports,24.33,8,9.73,204.37,18-02-2023,11:00:00,Cash
+INV-IND-00945,DEL,Chennai,Member,Female,Health & Wellness,17.1,4,3.42,71.82,25-02-2023,20:22:00,Net Banking
+INV-IND-00946,CHE,Kolkata,Member,Female,Books & Stationery,32.12,6,9.64,202.36,04-03-2023,13:00:00,Credit Card
+INV-IND-00947,MUM,Hyderabad,Normal,Male,Clothing,55.5,8,22.2,466.2,03-01-2023,18:59:00,UPI
+INV-IND-00948,MUM,Delhi,Normal,Female,Electronics,53.5,7,18.73,393.23,18-02-2023,21:11:00,UPI
+INV-IND-00949,MUM,Mumbai,Member,Male,Home Appliances,82.96,7,29.04,609.76,24-02-2023,11:08:00,Credit Card
+INV-IND-00950,HYD,Bangalore,Normal,Male,Sports,43.43,4,8.69,182.41,26-01-2023,13:13:00,Debit Card
+INV-IND-00951,KOL,Ahmedabad,Normal,Female,Books & Stationery,51.01,9,22.95,482.04,13-03-2023,16:12:00,Cash
+INV-IND-00952,BLR,Pune,Normal,Female,Electronics,6.27,6,1.88,39.5,21-02-2023,10:07:00,Cash
+INV-IND-00953,HYD,Delhi,Member,Female,Health & Wellness,43.93,3,6.59,138.38,07-01-2023,16:38:00,UPI
+INV-IND-00954,HYD,Kolkata,Member,Female,Electronics,66.54,5,16.64,349.34,15-02-2023,15:05:00,UPI
+INV-IND-00955,AHM,Kolkata,Member,Female,Home Appliances,6.47,5,1.62,33.97,15-02-2023,17:18:00,UPI
+INV-IND-00956,KOL,Ahmedabad,Normal,Male,Electronics,31.68,5,7.92,166.32,16-01-2023,17:24:00,Credit Card
+INV-IND-00957,HYD,Hyderabad,Member,Female,Books & Stationery,24.76,8,9.9,207.98,24-01-2023,11:06:00,Debit Card
+INV-IND-00958,MUM,Kolkata,Member,Female,Electronics,8.99,9,4.05,84.96,02-03-2023,17:09:00,Cash
+INV-IND-00959,MUM,Ahmedabad,Member,Male,Electronics,50.53,9,22.74,477.51,23-02-2023,15:32:00,Net Banking
+INV-IND-00960,AHM,Hyderabad,Member,Male,Electronics,22.26,6,6.68,140.24,03-03-2023,15:50:00,Credit Card
+INV-IND-00961,CHE,Delhi,Member,Female,Groceries,75.59,6,22.68,476.22,01-01-2023,20:17:00,Cash
+INV-IND-00962,DEL,Bangalore,Member,Male,Sports,85.55,9,38.5,808.45,18-02-2023,17:24:00,Debit Card
+INV-IND-00963,HYD,Delhi,Normal,Female,Health & Wellness,56.83,4,11.37,238.69,25-01-2023,11:43:00,Credit Card
+INV-IND-00964,DEL,Ahmedabad,Normal,Male,Home Appliances,98.26,6,29.48,619.04,10-01-2023,10:33:00,Cash
+INV-IND-00965,BLR,Bangalore,Member,Male,Health & Wellness,47.8,4,9.56,200.76,21-03-2023,17:19:00,Credit Card
+INV-IND-00966,PUN,Ahmedabad,Member,Female,Groceries,53.77,1,2.69,56.46,16-01-2023,13:50:00,Cash
+INV-IND-00967,MUM,Delhi,Normal,Male,Groceries,98.98,7,34.64,727.5,27-02-2023,10:26:00,Cash
+INV-IND-00968,CHE,Chennai,Normal,Male,Books & Stationery,27,6,8.1,170.1,13-03-2023,17:35:00,Debit Card
+INV-IND-00969,BLR,Chennai,Member,Male,Groceries,94.54,9,42.54,893.4,29-01-2023,13:48:00,Net Banking
+INV-IND-00970,AHM,Delhi,Member,Male,Sports,9.07,7,3.17,66.66,06-01-2023,11:01:00,Debit Card
+INV-IND-00971,CHE,Kolkata,Member,Male,Groceries,47.41,7,16.59,348.46,16-01-2023,18:36:00,Cash
+INV-IND-00972,PUN,Kolkata,Member,Male,Electronics,11.65,2,1.16,24.46,20-01-2023,10:58:00,Credit Card
+INV-IND-00973,PUN,Bangalore,Normal,Female,Health & Wellness,74.28,9,33.43,701.95,21-03-2023,08:38:00,Debit Card
+INV-IND-00974,AHM,Bangalore,Member,Female,Clothing,62.8,9,28.26,593.46,12-03-2023,20:51:00,Net Banking
+INV-IND-00975,KOL,Chennai,Member,Male,Home Appliances,72.13,6,21.64,454.42,19-03-2023,08:02:00,Cash
+INV-IND-00976,AHM,Hyderabad,Member,Female,Groceries,40.58,3,6.09,127.83,12-02-2023,09:03:00,Debit Card
+INV-IND-00977,MUM,Delhi,Member,Female,Health & Wellness,40.1,1,2.01,42.11,26-01-2023,08:28:00,Debit Card
+INV-IND-00978,BLR,Hyderabad,Normal,Female,Books & Stationery,9.31,4,1.86,39.1,31-03-2023,14:11:00,Debit Card
+INV-IND-00979,KOL,Bangalore,Normal,Male,Groceries,38.24,3,5.74,120.46,19-03-2023,16:42:00,Debit Card
+INV-IND-00980,PUN,Hyderabad,Normal,Female,Sports,93.28,1,4.66,97.94,12-03-2023,09:36:00,Credit Card
+INV-IND-00981,BLR,Ahmedabad,Member,Male,Groceries,41.03,3,6.15,129.24,02-02-2023,15:21:00,Net Banking
+INV-IND-00982,CHE,Mumbai,Member,Female,Groceries,83.98,4,16.8,352.72,26-01-2023,11:22:00,Net Banking
+INV-IND-00983,KOL,Chennai,Normal,Male,Groceries,85.02,8,34.01,714.17,14-02-2023,14:50:00,Cash
+INV-IND-00984,KOL,Chennai,Member,Male,Books & Stationery,40.46,9,18.21,382.35,25-03-2023,08:20:00,UPI
+INV-IND-00985,MUM,Ahmedabad,Member,Female,Groceries,65.04,3,9.76,204.88,04-03-2023,17:10:00,Credit Card
+INV-IND-00986,AHM,Bangalore,Normal,Female,Home Appliances,14.06,6,4.22,88.58,08-03-2023,20:14:00,Cash
+INV-IND-00987,DEL,Delhi,Normal,Male,Health & Wellness,14.85,5,3.71,77.96,21-02-2023,09:41:00,Cash
+INV-IND-00988,CHE,Delhi,Normal,Female,Sports,9.62,6,2.89,60.61,09-03-2023,08:45:00,Debit Card
+INV-IND-00989,CHE,Kolkata,Normal,Female,Groceries,60.2,4,12.04,252.84,26-01-2023,09:05:00,UPI
+INV-IND-00990,AHM,Pune,Member,Female,Groceries,45.48,6,13.64,286.52,16-03-2023,18:02:00,UPI
+INV-IND-00991,KOL,Ahmedabad,Member,Male,Groceries,57.06,7,19.97,419.39,02-01-2023,10:43:00,Credit Card
+INV-IND-00992,KOL,Pune,Normal,Male,Groceries,54.5,9,24.52,515.02,14-01-2023,09:50:00,UPI
+INV-IND-00993,MUM,Pune,Member,Female,Electronics,38.27,7,13.39,281.28,30-01-2023,13:37:00,Cash
+INV-IND-00994,DEL,Delhi,Normal,Female,Electronics,69.36,6,20.81,436.97,18-02-2023,10:02:00,UPI
+INV-IND-00995,CHE,Bangalore,Normal,Female,Clothing,77.06,1,3.85,80.91,12-01-2023,19:44:00,UPI
+INV-IND-00996,PUN,Chennai,Member,Male,Groceries,6.39,2,0.64,13.42,31-03-2023,15:26:00,Net Banking
+INV-IND-00997,HYD,Delhi,Normal,Male,Clothing,24.69,1,1.23,25.92,13-02-2023,18:10:00,Cash
+INV-IND-00998,HYD,Ahmedabad,Member,Female,Home Appliances,72.76,9,32.74,687.58,02-02-2023,12:50:00,UPI
+INV-IND-00999,DEL,Ahmedabad,Member,Female,Clothing,41.73,9,18.78,394.35,13-01-2023,19:10:00,UPI
+INV-IND-01000,BLR,Chennai,Member,Female,Health & Wellness,67.94,7,23.78,499.36,19-03-2023,14:51:00,Debit Card
